@@ -1,0 +1,13 @@
+pattern,termid,justification,entity type,polarity,spo2_lb,spo2_ub,case sensitive
+sats low (?:(?:[6-8][0-9])|(?:9[0-3])),,oxygen saturation pattern,Clinical-Finding,,,,FALSE
+down [6-8][0-9],,oxygen saturation pattern,Clinical-Finding,,,,FALSE
+o2 to [6-8][0-9],,oxygen saturation pattern,Clinical-Finding,,,,FALSE
+(?:(?:[7-8][0-9])|(?:9[0-3])) (?:(?:room air)|(?:RA)),,oxygen saturation pattern,Clinical-Finding,,,,FALSE
+increased work breathing,,dyspnea clinical picture,Clinical-Finding,,,,FALSE
+(?:(?:nrb)|(?:non rebreather)) mask (?:(?:[6-8][0-9])|(?:9[0-3])) at rest,,respiratory procedure,Supplemental-oxygen,,,,FALSE
+o2 [2-4]l applied,,respiratory procedure,Supplemental-oxygen,,,,FALSE
+placed on [1-4]L (?:(?:02)|(?:oxygen)|(?:NC)),,respiratory procedure,Supplemental-oxygen,,,,FALSE
+placed on (?:(?:9[0-9])|(?:100))%,,respiratory procedure,Supplemental-oxygen,,,,FALSE
+on (?:(?:9[0-9])|(?:100))%,,respiratory procedure,Supplemental-oxygen,,,,FALSE
+on (?:(?:9[0-9])|(?:100)) ?(?:L|l),,respiratory procedure,Supplemental-oxygen,,,,FALSE
+requesting (?:(?:02)|(?:oxygen)),,dyspnea clinical picture,Clinical-Finding,,,,FALSE

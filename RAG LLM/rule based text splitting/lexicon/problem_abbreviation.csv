@@ -1,0 +1,302 @@
+Abbr,AbbrText,Comment,Synonyms,nlp_Problem_Id,nlp_Problem_Term,nlp_TermLength,PPL_Id,Snomed_Concept_Id,UMLS_CUI,Snomed_Description_Id,Snomed_Description_Type,ICD9_Code,ICD9_Description,ICD10_Code,ICD10_Description,TTY,STY,Excluded,ProblemCategory,ProblemSubCategory
+-,Negative,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
++,Positive,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+A FIB,atrial fibrillation,NULL,NULL,128,atrial fibrillation,19,33,49436004,C0004238,82343012,1,427.31,Atrial fibrillation,I48.0,Atrial fibrillation,NULL,NULL,N,,NULL
+AAA,abdominal aortic aneurysm,NULL,NULL,1,abdominal aortic aneurysm,25,1,233985008,C0162871,350580017,1,441.4,Abdominal aortic aneurysm without mention of rupture,I71.4,Abdominal aortic aneurysm; without rupture,NULL,NULL,N,,NULL
+ABG,arterial blood gas,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ACL,anterior cruciate ligament,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ACUS,atypical cells of uncertain significance,NULL,NULL,17212,Atypical cells of uncertain significance,40,595,103635003,NULL,167356018,2,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+ADD,attention deficit disorder,NULL,NULL,132,attention deficit disorder ,26,1234,406506008,C0339002,486108019,2,314.01,Attention deficit disorder of childhood with hyperactivity,,,NULL,NULL,N,,NULL
+ADHD,attention-deficit hyperactivity disorder,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+A-E,above-the-elbow amputation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AEA,above-the-elbow amputation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AF,atrial fibrillation,NULL,NULL,128,atrial fibrillation,19,33,49436004,C0004238,82343012,1,427.31,Atrial fibrillation,I48.0,Atrial fibrillation,NULL,NULL,N,,NULL
+AFEB,afebrile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AFIB,atrial fibrillation,NULL,NULL,128,atrial fibrillation,19,33,49436004,C0004238,82343012,1,427.31,Atrial fibrillation,I48.0,Atrial fibrillation,NULL,NULL,N,,NULL
+A-fib,atrial fibrillation,NULL,NULL,128,atrial fibrillation,19,33,49436004,C0004238,82343012,1,427.31,Atrial fibrillation,I48.0,Atrial fibrillation,NULL,NULL,N,,NULL
+AFLUT,atrial flutter,NULL,NULL,129,atrial flutter,14,34,5370000,C0004239,9988012,1,427.32,Atrial flutter,I48.1,Atrial flutter,NULL,NULL,N,,NULL
+AGCUS,atypical glandular cells of undetermined significance,NULL,NULL,17805,Atypical glandular cells of undetermined significance,53,890,4476003,NULL,194856014,1,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+AGS,adrenogenital syndrome,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AGVHD,acute graft versus host disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AI,aortic insufficiency,NULL,NULL,97,aortic insufficiency,20,22,60234000,C0003504,1232061017,2,424.1,Aortic valve disorders,,,NULL,NULL,N,,NULL
+AIMS,abnormal involuntary movement scale,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+A-K,above-the-knee,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AKA,above knee amputation,NULL,NULL,17,above knee amputation,21,540,79733001,C0002691,504195017,2,,,,,NULL,NULL,N,,NULL
+ALD,alcoholic liver disease,NULL,NULL,10750,Alcoholic liver disease,23,NULL,41309000,C1442981,68909012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AMD,Age related Macular Degeneration,NULL,Synonym for ARMD,56,age related macular degeneration,32,1414,267718000,C0242383,399670012,1,362.5,Macular degeneration (senile) of retina; unspecified,H35.30,Unspecified macular degeneration (age-related),NULL,NULL,N,,NULL
+AML,acute myeloblastic leukemia,NULL,NULL,31,acute myeloblastic leukemia,27,569,91861009,NULL,NULL,NULL,205,Acute myeloid leukemia without mention of having achieved remission,,,NULL,NULL,N,,NULL
+Amnio,amniocentesis,NULL,NULL,8749,Amniocentesis,13,NULL,34536000,C0002627,57637019,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AOM,acute otitis media,NULL,NULL,8286,Acute otitis media,18,NULL,3110003,C0271429,6258014,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+APPY,appendectomy,NULL,NULL,101,appendectomy,12,24,80146002,C0003611,132968018,2,,,,,NULL,NULL,N,,NULL
+APRV,airway pressure release ventilation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AR,aortic regurgitation,NULL,NULL,13652,Aortic regurgitation,20,22,60234000,C0003504,100062010,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ARF,acute renal failure,NULL,NULL,34,acute renal failure,19,490,14669001,C0022660,2920634011,2,584.9,Acute kidney failure; unspecified,N17.9,Acute kidney failure; unspecified,NULL,NULL,N,,NULL
+ARI,acute renal insufficiency,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ARMD,Age related Macular degeneration,NULL,NULL,56,age related macular degeneration,32,1414,267718000,C0242383,399670012,1,362.5,Macular degeneration (senile) of retina; unspecified,H35.30,Unspecified macular degeneration (age-related),NULL,NULL,N,,NULL
+ASCUS,atypical squamous cells of undetermined significance,NULL,NULL,9845,Atypical squamous cells of undetermined significance,52,847,39035006,C0521184,197434013,1,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+ASCVD,arteriosclerotic cardiovascular disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ASHD,arteriosclerotic heart disease,NULL,NULL,13012,Arteriosclerotic heart disease,30,91,53741008,C0010054,2536393012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AST,aspartate aminotransferase,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ATN,acute tubular necrosis,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AVB,atrioventricular block,NULL,NULL,5378,Atrioventricular block,22,NULL,233917008,C0004245,350475012,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AVM,arteriovenous malformation,NULL,NULL,106,arteriovenous malformation,26,575,234141001,C0003857,350802019,2,747.6,Congenital anomaly of the peripheral vascular system; unspecified site,,,NULL,NULL,N,,NULL
+AVNERP,atrioventricular node effective refractory period,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+AVNRT,atrioventricular nodal re-entry tachycardia,NULL,NULL,6169,Atrioventricular nodal re-entry tachycardia,43,NULL,251166008,C0039232,2619726015,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+B/L,bilaterally,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+BCC,basal cell carcinoma,NULL,NULL,153,basal cell carcinoma,20,38,254701007,NULL,NULL,NULL,173.9,Other malignant neoplasm of skin; site unspecified,C44.9,Malignant neoplasm of skin; unspecified,NULL,NULL,N,,NULL
+BKA,below knee amputation,NULL,NULL,157,below knee amputation,21,40,88312006,NULL,NULL,NULL,,,,,NULL,NULL,N,,NULL
+BPAD, Bipolar Affective Disorder,NULL,NULL,NULL,NULL,NULL,NULL,13746004,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+BPD,bronchopulmonary dysplasia,NULL,NULL,202,bronchopulmonary dysplasia,26,1058,67569000,C0006287,112216013,2,770.7,Chronic respiratory disease arising in the perinatal period,,,NULL,NULL,N,,NULL
+BPPV,benign paroxysmal positional vertigo,NULL,NULL,162,benign paroxysmal positional vertigo,36,1502,111541001,C0155502,178784013,1,386.11,Benign paroxysmal positional vertigo,,,NULL,NULL,N,,NULL
+BTL,bilateral tubal ligation,NULL,NULL,7638,Bilateral tubal ligation,24,NULL,287664005,C0589114,427207017,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+BVF,biventricular failure,NULL,NULL,16721,Biventricular failure,21,NULL,92506005,C0685095,510016018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CABG,coronary artery bypass graft,NULL,NULL,5309,Coronary artery bypass graft,28,497,232717009,C0010055,348640013,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CAD,coronary artery disease,NULL,NULL,318,coronary artery disease,23,91,53741008,C0010054,2536395017,2,414,Coronary atherosclerosis of unspecified type of vessel; native or graft,,,NULL,NULL,N,,NULL
+CEA,carotid endarterectomy,NULL,NULL,14216,Carotid endarterectomy,22,136,66951008,C0014099,111207012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CFS,chronic fatigue syndrome,NULL,NULL,268,chronic fatigue syndrome,24,78,52702003,C0015674,87704019,1,780.71,Chronic fatigue syndrome,R53.82,Chronic fatigue; unspecified,NULL,NULL,N,,NULL
+CGD,chronic granulomatous disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CHB,complete heart block,NULL,NULL,7410,Complete heart block,20,699,27885002,C0151517,46673012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CHOL,cholesterol,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CHOLEY,cholecystectomy,NULL,NULL,259,cholecystectomy,15,76,38102005,C0008320,64698015,1,,,,,NULL,NULL,N,,NULL
+CHOLY,cholecystectomy,NULL,NULL,259,cholecystectomy,15,76,38102005,C0008320,64698015,1,,,,,NULL,NULL,N,,NULL
+CIDP,chronic inflammatory demyelinating polyneuropathy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CILD,chronic interstitial lung disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CIN,cervical carcinoma in situ,NULL,NULL,241,cervical carcinoma in situ,26,69,92564006,NULL,NULL,NULL,233.1,Carcinoma in situ of cervix uteri,,,NULL,NULL,N,,NULL
+CLL,chronic lymphocytic leukemia,NULL,NULL,269,chronic lymphocytic leukemia,28,79,92814006,NULL,NULL,NULL,204.1,Chronic lymphoid leukemia without mention of having achieved remission,C91.10,Chronic lymphocytic leukemia of B-cell type not having achieved remission,NULL,NULL,N,,NULL
+CML,chronic myelocytic leukemia,NULL,NULL,270,chronic myelocytic leukemia,27,570,92818009,C0023473,2837902010,2,205.1,Chronic myeloid leukemia without mention of having achieved remission,,,NULL,NULL,N,,NULL
+CMP,cardiomyopathy,NULL,NULL,220,cardiomyopathy,14,61,85898001,C0878544,142398017,2,425.4,Other primary cardiomyopathies,,,NULL,NULL,N,,NULL
+CMV,cytomegalovirus,NULL,NULL,346,cytomegalovirus,15,589,28944009,NULL,NULL,NULL,78.5,Cytomegaloviral disease,,,NULL,NULL,N,,NULL
+CPH,chronic persistent hepatitis,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CPR,cardiopulmonary resuscitation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CRI,Renal insufficiency,NULL,Synonym,1200,renal insufficiency,19,542,236425005,C0035078,2921020018,2,585.9,Chronic kidney disease; unspecified,N18.9,Chronic kidney disease; unspecified,NULL,NULL,N,,NULL
+CRPS,complex regional pain syndrome,NULL,NULL,2463,Complex regional pain syndrome,30,NULL,128200000,C0458219,206425010,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CSECTION,cesarean section,NULL,NULL,249,cesarean section,16,73,11466000,C0007876,19836016,2,,,,,NULL,NULL,N,,NULL
+CSF,cerebrospinal fluid,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+CSS,Churg-Strauss syndrome,NULL,NULL,276,Churg-Strauss syndrome,22,952,82275008,C0008728,136476013,2,446.4,Wegener's granulomatosis,,,NULL,NULL,N,,NULL
+CTS,carpal tunnel syndrome,NULL,NULL,224,carpal tunnel syndrome,22,63,57406009,C0007286,95473010,1,354,Carpal tunnel syndrome,,,NULL,NULL,N,,NULL
+CVA,cerebrovascular accident,NULL,NULL,237,cerebrovascular accident,24,67,230690007,C0038454,345637012,1,436,Acute; but ill-defined; cerebrovascular disease,,,NULL,NULL,N,,NULL
+CVVHD,continuous venous to venous hemodialysis,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D&C,dilation and curettage,NULL,NULL,2584,Dilation and curettage,22,108,13091001,C0012358,22407014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D&C&E,dilatation & curettage & evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D&E,dilation & evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D&V,Diarrhea & Vomiting,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D/C/E,Dilation & Curettage & Evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D/E,Dilation & Evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+d/o,disorder,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D/T,delirium tremens,NULL,NULL,16146,Delirium tremens,16,NULL,8635005,C0001957,15244019,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D/V,diarrhea and vomiting,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D+C,dilatation and curettage,NULL,NULL,378,dilatation and curettage,24,108,11401008,NULL,1219917017,2,,,,,NULL,NULL,N,,NULL
+D+C+E,Dilation & Curettage & Evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D+E,Dilation & Evacuation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+D+V,Diarrhea & Vomiting,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+Depressive D/O,Depressive disorder,Mental Disorder Study,NULL,NULL,Depressive disorder,14,NULL,35489007,NULL,59213018,NULL,NULL,NULL,NULL,NULL,ABRV,NULL,N,depression_abbreviation,NULL
+DI,diabetes insipidus,NULL,NULL,367,diabetes insipidus,18,511,15771004,C0011848,26722019,2,253.5,Diabetes insipidus,E23.2,Diabetes insipidus,NULL,NULL,N,,NULL
+DJD,degenerative joint disease,NULL,NULL,352,degenerative joint disease,26,906,396275006,C0029408,1785526019,2,715.9,Osteoarthrosis; unspecified whether generalized or localized; involving unspecified site,,,NULL,NULL,N,,NULL
+DKA,diabetic ketoacidosis,NULL,NULL,372,diabetic ketoacidosis,21,539,420422005,C0011880,2616611010,1,250.1,Diabetes mellitus with ketoacidosis; type II or unspecified type; not stated as uncontrolled,,,NULL,NULL,N,,NULL
+DM,diabetes mellitus,NULL,NULL,368,diabetes mellitus,17,105,73211009,C0011849,121590018,2,250,Diabetes mellitus without mention of complication; type II or unspecified type; not stated as uncontrolled,,,NULL,NULL,N,,NULL
+DOE,dyspnea on exertion,NULL,NULL,13731,Dyspnea on exertion,19,NULL,60845006,C0231807,498863015,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+DPN,Depression,Mental Disorder Study,NULL,NULL,Depression,3,NULL,35489007,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ABRV,NULL,N,depression_abbreviation,NULL
+DUB,dysfunctional uterine bleeding,NULL,NULL,398,dysfunctional uterine bleeding,30,114,19155002,C0025874,32278010,1,626.8,Other disorders of menstruation and other abnormal bleeding from female genital tract,,,NULL,NULL,N,,NULL
+EAA,extrinsic allergic alveolitis,NULL,NULL,9541,Extrinsic allergic alveolitis,29,NULL,37471005,C0002390,187707013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+EDS,Ehlers-Danlos syndrome,NULL,NULL,419,Ehlers-Danlos syndrome,22,963,398114001,C0013720,1777678019,1,756.83,Ehlers-Danlos syndrome,Q79.6,Ehlers-Danlos syndrome,NULL,NULL,N,,NULL
+EFM,electronic fetal monitoring,NULL,NULL,17710,Electronic fetal monitoring,27,1309,387672006,NULL,1492204016,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+EN,erythema nodosum,NULL,NULL,471,erythema nodosum,16,139,32861005,C0014743,54849011,2,695.2,Erythema nodosum,L52,Erythema nodosum,NULL,NULL,N,,NULL
+ENaC,epithelial sodium channel,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ERCP,endoscopic retrograde cholangiopancreatography,NULL,NULL,9723,Endoscopic retrograde cholangiopancreatography,46,1353,386718000,C0008310,1480852014,1,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+ESRD,end stage renal disease,NULL,NULL,441,end stage renal disease,23,135,46177005,C0022661,76995019,1,586,Renal failure; unspecified,N19,Unspecified kidney failure,NULL,NULL,N,,NULL
+ESWL,extracorporeal shockwave lithotripsy,NULL,NULL,486,extracorporeal shockwave lithotripsy,36,1383,44345001,NULL,73972018,2,,,,,NULL,NULL,N,,NULL
+ETCO2,endtidal CO2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ETD,eustachian tube dysfunction,NULL,NULL,481,eustachian tube dysfunction,27,686,56713002,C0271468,1494809017,2,381.81,Dysfunction of Eustachian tube,,,NULL,NULL,N,,NULL
+FB,foreign body,NULL,NULL,523,foreign body,12,1526,125670008,C0016542,473556018,1,799.89,Other ill-defined conditions,,,NULL,NULL,N,,NULL
+FCBD,fibrocystic breast disease,NULL,NULL,508,fibrocystic breast disease,26,830,27431007,NULL,NULL,NULL,610.1,Diffuse cystic mastopathy,,,NULL,NULL,N,,NULL
+FEV,forced expiratory volume,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+FEV1,forced expiratory volume in one second,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+FOB,Occult blood in stools,NULL,NULL,13595,Occult blood in stools,22,159,59614000,C0266813,99030019,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+FVL,factor V Leiden,NULL,NULL,489,factor V leiden,15,1072,307091009,NULL,NULL,NULL,289.81,Primary hypercoagulable state,,,NULL,NULL,N,,NULL
+Fx,fracture,NULL,NULL,2243,Fracture,8,152,125605004,C0016658,473534016,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+GAD,generalized anxiety disorder,NULL,NULL,4966,Generalized anxiety disorder,28,NULL,21897009,C0270549,36731013,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+GCA,giant cell arteritis,NULL,NULL,554,giant cell arteritis,20,161,414341000,C0039483,2534171012,1,446.5,Giant cell arteritis,,,NULL,NULL,N,,NULL
+GCT,germ cell tumor,NULL,NULL,10402,Germ cell tumor,15,NULL,402878003,C0205851,1774963015,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+GER,gastroesophageal reflux,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+GERD,gastroesophageal reflux disease,NULL,NULL,546,gastroesophageal reflux disease,31,140,235595009,C0017168,353135014,1,530.81,Esophageal reflux,K21.9,Gastro-esophageal reflux disease without esophagitis,NULL,NULL,N,,NULL
+GIB,Gastrointestinal bleed,NULL,NULL,14942,Gastrointestinal bleed,22,486,74474003,C0017181,1233753013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+GN,glomerulonephritis,NULL,NULL,558,glomerulonephritis,18,605,36171008,C0017658,60356016,2,583.9,Nephritis and nephropathy; not specified as acute or chronic; with unspecified pathological lesion in kidney,,,NULL,NULL,N,,NULL
+GVHD,graft versus host disease,NULL,NULL,5443,Graft versus host disease,25,572,234646005,C0018133,351589011,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+H/A,headache,NULL,NULL,582,headache,8,167,25064002,C0018681,41991015,2,784,Headache,R51,Headache,NULL,NULL,N,,NULL
+h/o,history of,NULL,NULL,NULL,NULL,NULL,NULL,392521001,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+H/O Depression,Depressive disorder,Mental Disorder Study,NULL,NULL,Depressive disorder,14,NULL,35489007,NULL,59213018,NULL,NULL,NULL,NULL,NULL,ABRV,NULL,N,depression_abbreviation,NULL
+HBP,high blood pressure,NULL,NULL,9612,High blood pressure,19,196,38341003,C0020538,64172013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HBsAG,hepatitis B surface antigen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HCC,hepatocellular carcinoma,NULL,NULL,1741,Hepatocellular carcinoma,24,NULL,109841003,C2239176,342807011,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HCL,hairy cell leukemia,NULL,NULL,2107,Hairy cell leukemia,19,NULL,118613001,C0023443,2773660010,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HCM,Hypertrophic cardiomyopathy,NULL,NULL,5370,Hypertrophic cardiomyopathy,27,NULL,233873004,C0007194,350415017,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+Hct,hematocrit,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HDL,high-density lipoprotein,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HDV,hepatitis D virus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HEV,hepatitis E virus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+hgb,hemoglobin,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HH,hiatal hernia,NULL,NULL,620,hiatal hernia,13,185,84089009,C0019284,139432019,1,553.3,Diaphragmatic hernia without mention of obstruction or gangrene,K44.9,Diaphragmatic hernia without obstruction or gangrene,NULL,NULL,N,,NULL
+HHT,hereditary hemorrhagic telangiectasia,NULL,NULL,4958,Hereditary hemorrhagic telangiectasia,37,NULL,21877004,C0039445,36697017,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HHV,human herpes virus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HIV,human immunodeficiency virus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HIV -,HIV negative,NULL,NULL,632,HIV negative,12,189,165815009,NULL,257852010,1,,,,,NULL,NULL,N,,NULL
+HIV +,HIV positive,NULL,NULL,633,HIV positive,12,190,165816005,NULL,257855012,1,V08,Asymptomatic human immunodeficiency virus [HIV] infection status,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,NULL,NULL,N,,NULL
+HMG,hepatomegaly,NULL,NULL,609,hepatomegaly,12,1060,80515008,C0019209,133597016,2,789.1,Hepatomegaly,R16.0,Hepatomegaly; not elsewhere classified,NULL,NULL,N,,NULL
+HNP,herniated disc,NULL,NULL,613,herniated disc,14,182,84857004,NULL,NULL,NULL,722.2,Displacement of intervertebral disc; site unspecified; without myelopathy,,,NULL,NULL,N,,NULL
+HOH,hard of hearing,NULL,NULL,2820,Hard of hearing,15,169,15188001,C1384666,477220016,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HPV,human papilloma virus,NULL,NULL,641,human papilloma virus,21,549,240532009,NULL,NULL,NULL,79.4,Human papillomavirus infection in conditions classified elsewhere and of unspecified site,B97.7,Papillomavirus as the cause of diseases classified elsewhere,NULL,NULL,N,,NULL
+HRT,hormone replacement therapy,NULL,NULL,639,hormone replacement therapy,27,548,266717002,C0282402,397164010,1,,,,,NULL,NULL,N,,NULL
+HSV,herpes simplex,NULL,NULL,16390,Herpes simplex,14,NULL,88594005,C0019348,146892011,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+HTN,hypertension,NULL,NULL,670,hypertension,12,196,38341003,C0020538,64176011,2,401.9,Unspecified essential hypertension,,,NULL,NULL,N,,NULL
+HUS,hemolytic uremic syndrome,NULL,NULL,1902,Hemolytic uremic syndrome,25,NULL,111407006,C0019061,187785015,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+Hx Depression,Depressive disorder,Mental Disorder Study,NULL,NULL,Depressive disorder,14,NULL,35489007,NULL,59213018,NULL,NULL,NULL,NULL,NULL,ABRV,NULL,N,depression_abbreviation,NULL
+IBD,inflammatory bowel disease,NULL,NULL,703,inflammatory bowel disease,26,562,24526004,C0021390,41138010,2,558.9,Other and unspecified noninfectious gastroenteritis and colitis,,,NULL,NULL,N,,NULL
+IBS,irritable bowel syndrome,NULL,NULL,741,irritable bowel syndrome,24,209,10743008,C0022104,18666015,1,564.1,Irritable bowel syndrome,,,NULL,NULL,N,,NULL
+IDA,iron deficiency anemia,NULL,NULL,738,iron deficiency anemia,22,208,87522002,C0162316,145105012,2,280.9,Iron deficiency anemia; unspecified,D50.9,Iron deficiency anemia; unspecified,NULL,NULL,N,,NULL
+IGT,impaired glucose tolerance,NULL,NULL,16830,Impaired glucose tolerance,26,579,9414007,C0271650,16498014,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IHSS,idiopathic hypertrophic subaortic stenosis,NULL,NULL,17655,Idiopathic hypertrophic subaortic stenosis,42,620,360465008,NULL,476289012,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+ILD,interstitial lung disease,NULL,NULL,726,interstitial lung disease,25,1006,233703007,C0206062,350185018,1,515,Postinflammatory pulmonary fibrosis,,,NULL,NULL,N,,NULL
+Inc,Cervical incompetence,NULL,NULL,244,cervical incompetence,21,587,17382005,C0007871,29390018,1,654.5,Cervical incompetence; unspecified as to episode of care or not applicable,,,NULL,NULL,N,,NULL
+Infx,infection,NULL,NULL,10538,Infection,9,NULL,40733004,C0009450,67942010,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IUGR,intrauterine growth retardation,NULL,NULL,4985,Intrauterine growth retardation,31,773,22033007,C0015934,36961011,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IVF,in vitro fertilization,NULL,NULL,696,in vitro fertilization,22,531,52637005,NULL,87600016,1,,,,,NULL,NULL,Y,,NULL
+IVP,intravenous pyelogram,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IVPB,intravenous piggyback,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IVSS,intravenous soluset,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IVUS,intravascular ultrasound,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+IVV,intravascular volume,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+JRA,Stills disease,NULL,NULL,1323,Stills disease,14,404,201796004,NULL,NULL,NULL,714.3,Polyarticular juvenile rheumatoid arthritis; chronic or unspecified,,,NULL,NULL,N,,NULL
+LAD,lymphadenopathy,NULL,NULL,836,lymphadenopathy,15,241,30746006,C0497156,51454014,2,785.6,Enlargement of lymph nodes,,,NULL,NULL,N,,NULL
+LAH,left atrial hypertrophy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+Lami,laminectomy,NULL,NULL,773,laminectomy,11,218,387731002,C0022983,1481809019,1,,,,,NULL,NULL,N,,NULL
+LBBB,left bundle branch block,NULL,NULL,13913,Left bundle branch block,24,NULL,63467002,C0023211,105499018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+LBP,low back pain,NULL,NULL,809,low back pain,13,226,279039007,C0024031,416139010,1,724.2,Lumbago,M54.5,Low back pain,NULL,NULL,N,,NULL
+LBW,low birth weight,NULL,NULL,7296,Low birth weight,16,NULL,276610007,C0024032,412833012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+LCAT,leclthin:cholesterol acyl transferase,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+LEEP,loop electrosurgical excision procedure,NULL,NULL,17680,Loop electrosurgical excision procedure,39,858,36899001,NULL,61554010,2,NULL,NULL,NULL,NULL,NULL,NULL,Y,,NULL
+LGA,large for gestational age,NULL,NULL,776,large for gestational age,25,841,199616008,NULL,NULL,NULL,766.1,Other 'heavy-for-dates' infants,P08.1,Other heavy for gestational age newborn,NULL,NULL,N,,NULL
+LHC,Cardiac catheterization,NULL,NULL,217,cardiac catheterization,23,666,41976001,C0018795,70052014,2,,,,,NULL,NULL,N,,NULL
+LIH,inguinal hernia,NULL,NULL,709,inguinal hernia,15,181,396232000,C0019294,1776213016,1,550.9,Unilateral or unspecified inguinal hernia; without mention of obstruction or gangrene (not specified as recurrent),K40.90,Unilateral inguinal hernia; without obstruction or gangrene; not specified as recurrent,NULL,NULL,N,,NULL
+LP,lumbar puncture,NULL,NULL,823,lumbar puncture,15,849,277762005,C0037943,414456014,1,,,,,NULL,NULL,N,,NULL
+LPD,lymphoproliferative disorder,NULL,NULL,7342,Lymphoproliferative disorder,28,NULL,277466009,C0024314,413994012,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+LVF,left ventricular failure,NULL,NULL,16063,Left ventricular failure,24,NULL,85232009,C0023212,141306010,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+LVH,left ventricular hypertrophy,NULL,NULL,787,left ventricular hypertrophy,28,220,55827005,C0149721,92841017,1,429.3,Cardiomegaly,I51.7,Cardiomegaly,NULL,NULL,N,,NULL
+MCTD,mixed connective tissue disease,NULL,NULL,895,mixed connective tissue disease,31,264,398049005,C0026272,1786074016,2,446.2,Hypersensitivity angiitis; unspecified,,,NULL,NULL,N,,NULL
+MD,muscular dystrophy,NULL,NULL,912,muscular dystrophy,18,1000,73297009,C0026850,121722019,2,359.1,Hereditary progressive muscular dystrophy,G71.0,Muscular dystrophy,NULL,NULL,Y,,NULL
+MDD,Major depressive disorder,Mental Disorder Study,NULL,NULL,Major depressive disorder,3,NULL,370143000,NULL,370143000,NULL,NULL,NULL,NULL,NULL,ABRV,NULL,N,depression_abbreviation,NULL
+MDS,myelodysplastic syndrome,NULL,NULL,920,myelodysplastic syndrome,24,630,109995007,C0026986,2659757019,2,238.75,Myelodysplastic syndrome; unspecified,D46.9,Myelodysplastic syndrome; unspecified,NULL,NULL,N,,NULL
+METS,metastases,NULL,NULL,879,metastases,10,551,128462008,C2939419,474417018,2,199.1,Other malignant neoplasm of unspecified site,,,NULL,NULL,N,,NULL
+MF,myelofibrosis,NULL,NULL,12961,Myelofibrosis,13,NULL,52967002,C0026987,88122012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+MI,myocardial infarction,NULL,NULL,923,myocardial infarction,21,273,22298006,C0027051,37437017,2,410.9,Acute myocardial infarction; unspecified site; episode of care unspecified,,,NULL,NULL,N,,NULL
+MONO,infectious mononucleosis,NULL,NULL,701,infectious mononucleosis,24,204,271558008,C0021345,406380019,1,75,Infectious mononucleosis,,,NULL,NULL,N,,NULL
+MPA,microscopic polyangiitis,NULL,NULL,5845,Microscopic polyangiitis,24,NULL,239928004,C0343192,359497016,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+MR,mitral valve regurgitation,NULL,NULL,12542,Mitral valve regurgitation,26,825,48724000,C0026266,81187013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+MRSA,methicillin resistant Staphylococcus aureus,NULL,NULL,882,methicillin resistant Staphylococcus aureus,43,629,266096002,NULL,NULL,NULL,41.12,Methicillin resistant Staphylococcus aureus infection in conditions classified elsewhere and of unspecified site,,,NULL,NULL,N,,NULL
+MVP,mitral valve prolapse,NULL,NULL,894,mitral valve prolapse,21,263,409712001,C0026267,2471474013,1,424,Mitral valve disorders,,,NULL,NULL,N,,NULL
+N&V,nausea and vomiting,NULL,NULL,3275,Nausea and vomiting,19,1242,16932000,C0027498,28667013,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+N&V&D,Nausea & Vomiting & Diarrhea,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+N/V,nausea and vomiting,NULL,NULL,3275,Nausea and vomiting,19,1242,16932000,C0027498,28667013,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+N/V/D,nausea vomiting diarrhea,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+N+V,Nausea & Vomiting,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+N+V+D,Nausea & Vomiting & Diarrhea,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+nDI,nephrogenic Daibetes Insipidus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+NERD,nonerosive esophageal reflux dizease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+NFM,neurofibromatosis,NULL,NULL,949,neurofibromatosis,17,283,19133005,NULL,NULL,NULL,237.79,Other neurofibromatosis,,,NULL,NULL,N,,NULL
+NSVD X1,First degree perineal tear during delivery - delivered,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+NSVD X2,Second degree perineal tear during delivery - delivered,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+NSVD X3,Third degree perineal tear during delivery - delivered,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+NSVD X4,Fourth degree perineal tear during delivery,NULL,NULL,17759,Fourth degree perineal tear during delivery,43,1317,399031001,NULL,2621564018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+OA,osteoarthritis,NULL,NULL,995,osteoarthritis,14,822,396275006,C0029408,1776248011,1,715.9,Osteoarthrosis; unspecified whether generalized or localized; involving unspecified site,,,NULL,NULL,N,,NULL
+OAD,obstructive airways disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+OAG,open angle glaucoma,NULL,NULL,15993,Open angle glaucoma,19,NULL,84494001,C0017612,2579462017,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+OBS,organic brain syndrome,NULL,NULL,7361,Organic brain syndrome,22,868,2776000,C0011206,483654019,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+OCP,oral contraceptive use,NULL,NULL,988,oral contraceptive use,22,560,5935008,NULL,NULL,NULL,V25.41,Encounter for surveillance of contraceptive pill,Z30.41,Encounter for surveillance of contraceptive pills,NULL,NULL,N,,NULL
+ODD,Oppositional defiant disorder,NULL,NULL,3747,Oppositional defiant disorder,29,NULL,18941000,C0029121,31925017,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+OM,otitis media,NULL,NULL,1009,otitis media,12,300,65363002,C0029882,108598013,2,382.9,Unspecified otitis media,,,NULL,NULL,N,,NULL
+OME,otitis media with effusion,NULL,NULL,15383,Otitis media with effusion,26,NULL,78868004,C1455742,503933017,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+osa,obstructive sleep apnea,NULL,NULL,15334,Obstructive sleep apnea,23,1518,78275009,C0520679,2920909013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PaCO2,arterial carbon dioxide tension,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PaO2,arterial oxygen tension,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PAP,Papanicolaou,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PCKD,polycystic kidney disease,NULL,NULL,15836,Polycystic kidney disease,25,335,82525005,C0311245,505126019,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PCOS,polycystic ovary syndrome,NULL,NULL,14489,Polycystic ovary syndrome,25,336,69878008,C0032460,501422016,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PDA,patent ductus arteriosus,NULL,NULL,15917,Patent ductus arteriosus,24,1334,83330001,C0013274,138208019,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PE,pulmonary embolism,NULL,NULL,1164,pulmonary embolism,18,361,59282003,C0034065,98484016,1,415.19,Other pulmonary embolism and infarction,I26.99,Other pulmonary embolism without acute cor pulmonale,NULL,NULL,N,,NULL
+PFO,patent foramen ovale,NULL,NULL,4624,Patent foramen ovale,20,1342,204317008,C0016522,313317014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PG,pregnancy,NULL,NULL,1125,pregnancy,9,346,77386006,C0549206,128451012,2,V22.2,Pregnant state; incidental,Z33.1,Pregnant state; incidental,NULL,NULL,N,,NULL
+PHN,postherpetic neuralgia,NULL,NULL,1117,postherpetic neuralgia,22,580,2177002,C0032768,4765019,1,53.19,Herpes zoster with other nervous system complications,,,NULL,NULL,N,,NULL
+PIH,pregnancy-induced hypertension,NULL,NULL,12462,Pregnancy-induced hypertension,30,NULL,48194001,C0340274,80300012,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PMDD,premenstrual dysphoric disorder,NULL,NULL,13592,Premenstrual dysphoric disorder,31,NULL,596004,C0520676,2066014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PMR,polymyalgia rheumatica,NULL,NULL,1100,polymyalgia rheumatica,22,337,65323003,C0032533,108529013,1,725,Polymyalgia rheumatica,M35.3,Polymyalgia rheumatica,NULL,NULL,N,,NULL
+POF,premature ovarian failure,NULL,NULL,1129,premature ovarian failure,25,668,237788002,C0085215,356353015,1,256.39,Other ovarian failure,E28.39,Other primary ovarian failure,NULL,NULL,N,,NULL
+PRCA,pure red cell aplasia,NULL,NULL,12753,Pure red cell aplasia,21,NULL,50715003,C0034902,84524014,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PROM,premature rupture of membranes,NULL,NULL,1130,premature rupture of membranes,30,638,44223004,C0015944,73748017,1,658.1,Premature rupture of membranes; unspecified as to episode of care or not applicable,,,NULL,NULL,N,,NULL
+PS,pulmonary stenosis,NULL,NULL,17868,Pulmonary stenosis,18,794,56786000,NULL,1231651014,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PSVT,paroxysmal supraventricular tachycardia,NULL,NULL,14236,Paroxysmal supraventricular tachycardia,39,NULL,67198005,C0030590,111643014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PTCA,percutaneous transluminal coronary angioplasty,NULL,NULL,1858,Percutaneous transluminal coronary angioplasty,46,498,11101003,C2936173,19234014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PTL,preterm labor,NULL,NULL,1137,preterm labor,13,1063,6383007,C0022876,1218299017,2,644.2,Early onset of delivery; unspecified as to episode of care or not applicable,,,NULL,NULL,N,,NULL
+PTSD,post-traumatic stress disorder,NULL,NULL,12398,Post-traumatic stress disorder,30,835,47505003,C0038436,494851018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+PTX,pneumothorax,NULL,NULL,1091,pneumothorax,12,330,36118008,C0032326,60273016,2,512.8,Other spontaneous pneumothorax,,,NULL,NULL,N,,NULL
+PUD,peptic ulcer disease,NULL,NULL,1054,peptic ulcer disease,20,316,13200003,C0030920,1220927019,2,533.9,Peptic ulcer of unspecified site; unspecified as acute or chronic; without mention of hemorrhage or perforation; without mention of obstruction,,,NULL,NULL,N,,NULL
+PVD,peripheral vascular disease,NULL,NULL,1063,peripheral vascular disease,27,321,399957001,C0085096,1779317016,1,443.9,Peripheral vascular disease; unspecified,I73.9,Peripheral vascular disease; unspecified,NULL,NULL,N,,NULL
+PW,Prader-Willi syndrome,NULL,NULL,18036,Prader-Willi syndrome,21,1484,89392001,NULL,148214012,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+R&R&W,Rales rhonchi wheezes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+R/R/W,rales rhonchi wheezes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+R+R+W,Rales rhonchi wheezes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RA,rheumatoid arthritis,NULL,NULL,1222,rheumatoid arthritis,20,377,69896004,C0003873,116082011,1,714,Rheumatoid arthritis,,,NULL,NULL,N,,NULL
+RAS,renal artery stenosis,NULL,NULL,1197,renal artery stenosis,21,872,302233006,C0035067,443820016,1,440.1,Atherosclerosis of renal artery,I70.1,Atherosclerosis of renal artery,NULL,NULL,N,,NULL
+RBBB,right bundle branch block,NULL,NULL,13563,Right bundle branch block,25,NULL,59118001,C0085615,98239015,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RCC,renal cell carcinoma,NULL,NULL,6313,Renal cell carcinoma,20,NULL,254915003,C0279702,379802010,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RF,rheumatoid factor,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RHC,Cardiac catheterization,NULL,NULL,217,cardiac catheterization,23,666,41976001,C0018795,70052014,2,,,,,NULL,NULL,N,,NULL
+RHD,rheumatic heart disease,NULL,NULL,1221,rheumatic heart disease,23,376,23685000,C0035439,39768012,2,398.9,Rheumatic heart disease; unspecified,I09.9,Rheumatic heart disease; unspecified,NULL,NULL,N,,NULL
+RIH,inguinal hernia,NULL,NULL,709,inguinal hernia,15,181,396232000,C0019294,1776213016,1,550.9,Unilateral or unspecified inguinal hernia; without mention of obstruction or gangrene (not specified as recurrent),K40.90,Unilateral inguinal hernia; without obstruction or gangrene; not specified as recurrent,NULL,NULL,N,,NULL
+RLS,Restless Legs Syndrome,NULL,NULL,1209,restless legs syndrome,22,761,32914008,C0035258,54936019,2,333.94,Restless legs syndrome (RLS),G25.81,Restless legs syndrome,NULL,NULL,N,,NULL
+RSD,reflex sympathetic dystrophy,NULL,NULL,1194,reflex sympathetic dystrophy,28,369,128079007,C0034931,194673013,2,337.2,Reflex sympathetic dystrophy; unspecified,,,NULL,NULL,N,,NULL
+RV,right ventricle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RVF,right ventricular failure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+RVH,right ventricular hypertrophy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SAH,subarachnoid hemorrhage,NULL,NULL,1334,subarachnoid hemorrhage,23,1042,21454007,C0038525,36011016,1,430,Subarachnoid hemorrhage,,,NULL,NULL,N,,NULL
+SaO2,arterial oxygen saturation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SB,sinus bradycardia,NULL,NULL,1280,sinus bradycardia ,17,1474,49710005,C0085610,82796018,1,427.81,Sinoatrial node dysfunction,I49.5,Sick sinus syndrome,NULL,NULL,N,,NULL
+SBO,small bowel obstruction,NULL,NULL,1295,small bowel obstruction,23,394,281255004,C0235329,419229011,1,560.9,Unspecified intestinal obstruction,K56.60,Unspecified intestinal obstruction,NULL,NULL,N,,NULL
+SC,sclerosing cholangitis,NULL,NULL,1243,sclerosing cholangitis,22,1380,235917005,C0008313,353654013,1,576.1,Cholangitis,K83.0,Cholangitis,NULL,NULL,N,,NULL
+SCC,squamous cell carcinoma,NULL,NULL,10395,Squamous cell carcinoma,23,634,402815007,C0007137,1781907014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SCD,sickle cell disease,NULL,NULL,10978,Sickle cell disease,19,522,417357006,C0002895,2553616013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SCFE,slipped capital femoral epiphysis,NULL,NULL,1294,slipped capital femoral epiphysis,33,1331,26460006,NULL,NULL,NULL,732.2,Nontraumatic slipped upper femoral epiphysis,,,NULL,NULL,N,,NULL
+SCID,severe combined immunodeficiency disease,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SD,scleroderma,NULL,NULL,1242,scleroderma,11,380,89155008,C0011644,309413012,1,710.1,Systemic sclerosis,M34.9,Systemic sclerosis; unspecified,NULL,NULL,N,,NULL
+SDH,subdural hematoma,NULL,NULL,1336,subdural hematoma,17,642,95453001,NULL,158108016,2,432.1,Subdural hemorrhage,,,NULL,NULL,N,,NULL
+SGA,small for gestational age,NULL,NULL,17558,Small for gestational age,25,842,267258002,NULL,2921009018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SJS,Stevens-Johnson syndrome,NULL,NULL,14840,Stevens-Johnson syndrome,24,NULL,73442001,C0038325,121958017,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SMG,splenomegaly,NULL,NULL,1308,splenomegaly,12,878,16294009,C0038002,27580015,2,789.2,Splenomegaly,R16.1,Splenomegaly; not elsewhere classified,NULL,NULL,N,,NULL
+SOB,shortness of breath,NULL,NULL,1269,shortness of breath,19,385,267036007,C0013404,397890011,2,786.09,Other dyspnea and respiratory abnormality,,,NULL,NULL,N,,NULL
+SOM,serous otitis media,NULL,NULL,15619,Serous otitis media,19,NULL,80327007,C0271453,133293016,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SpO2,oxygen saturation,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SS,systemic sclerosis,NULL,NULL,16425,Systemic sclerosis,18,380,89155008,C0036421,147833014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SSS,sick sinus syndrome,NULL,NULL,1275,sick sinus syndrome,19,675,36083008,C0037052,60214017,1,427.81,Sinoatrial node dysfunction,I49.5,Sick sinus syndrome,NULL,NULL,N,,NULL
+Staph,Staphylococcus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+STD,sexually transmitted disease,NULL,NULL,15681,Sexually transmitted disease,28,384,8098009,C0036916,14376018,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SUI,stress urinary incontinence,NULL,NULL,5033,Stress urinary incontinence,27,1069,22220005,C0042025,1222719013,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+SVT,supraventricular tachycardia,NULL,NULL,1342,supraventricular tachycardia,28,410,6456007,C0039240,11706015,2,427.89,Other specified cardiac dysrhythmias,I49.8,Other specified cardiac arrhythmias,NULL,NULL,N,,NULL
+TAA,thoracic aortic aneurysm,NULL,NULL,1371,thoracic aortic aneurysm,24,881,74883004,NULL,NULL,NULL,441.2,Thoracic aortic aneurysm without mention of rupture,I71.2,Thoracic aortic aneurysm; without rupture,NULL,NULL,N,,NULL
+TAH,total abdominal hysterectomy,NULL,NULL,1405,total abdominal hysterectomy,28,1408,116143008,C0404079,184452019,1,,,,,NULL,NULL,N,,NULL
+TB,tuberculosis,NULL,NULL,1428,tuberculosis,12,434,56717001,C0041296,94321015,2,11.9,Unspecified pulmonary tuberculosis; unspecified examination,,,NULL,NULL,N,,NULL
+TEE,transesophageal echocardiogram,NULL,NULL,1635,Transesophageal echocardiogram,30,NULL,105376000,C0206054,2550028017,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+TGN,trigeminal neuralgia,NULL,NULL,8454,Trigeminal neuralgia,20,431,31681005,C0040997,52934017,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+THC,Tetrahydrocannabinol,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+TIPS,transjugular intrahepatic portosystemic shunt,NULL,NULL,5330,Transjugular intrahepatic portosystemic shunt,45,NULL,233445008,C0339897,349797010,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+TKR,total knee replacement,NULL,NULL,1407,total knee replacement,22,427,19063003,NULL,NULL,NULL,,,,,NULL,NULL,N,,NULL
+TPN,total parenteral nutrition,NULL,NULL,5090,Total parenteral nutrition,26,NULL,225372007,C0030548,338668014,1,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+Trich,trichomonas,NULL,NULL,1422,trichomonas,11,504,35089004,NULL,NULL,NULL,131,Urogenital trichomoniasis; unspecified,A59.00,Urogenital trichomoniasis; unspecified,NULL,NULL,N,,NULL
+TVR,Tricuspid valve regurgitation,NULL,NULL,1885,Tricuspid valve regurgitation,29,1043,111287006,C0040961,187711019,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+UC,ulcerative colitis,NULL,NULL,1433,ulcerative colitis,18,436,64766004,C0009324,107642015,2,556.8,Other ulcerative colitis,,,NULL,NULL,N,,NULL
+UGI,upper gastrointestinal,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+UGIB,upper gastrointestinal bleeding,NULL,NULL,9520,Upper gastrointestinal bleeding,31,440,37372002,C0041909,62346011,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+UIP,usual interstitial pneumonitis,NULL,NULL,4208,Usual interstitial pneumonitis,30,NULL,196125002,C0085786,2475606014,2,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+UTI,urinary tract infection,NULL,NULL,1465,urinary tract infection,23,444,68566005,C0042029,113883012,2,599,Urinary tract infection; site not specified,N39.0,Urinary tract infection; site not specified,NULL,NULL,N,,NULL
+Vag,vaginal,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+VSD,ventricular septal defect,NULL,NULL,1489,ventricular septal defect,25,568,30288003,C0018818,50693015,1,745.4,Ventricular septal defect,Q21.0,Ventricular septal defect,NULL,NULL,N,,NULL
+VT,ventricular tachycardia ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+vWD,von Willebrand's disease           ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,,NULL
+vWF,von Willebrand's factor,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

@@ -1,0 +1,1801 @@
+Concept_Name,TermType,Template_ID,LOINC_Code,LOINC_Code2,Excluded,Compound,Notes
+#1 HTN:,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+#1: ,Number One Section,N/A,N/A,NULL,N,NULL,?
+#1HTN,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,NULL,NULL,NULL
+#2: ,Number Two Section,N/A,N/A,NULL,N,NULL,?
+#3: ,Number Three Section,N/A,N/A,NULL,N,NULL,?
+*Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+*Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+*Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+1 ????Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,prefix
+13 Describes correct use of diabetes medications and potential SE,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,prefix
+14 States potential complications of diabetes and strategies for reducing risk,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,prefix
+5 - Have you started taking any new medications since your last visit?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,prefix
+8 Describes correct use of diabetes medications and potential SE,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,prefix
+A Biopsy Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,prefix
+Actions/Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Active Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Activities After Discharge,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Activity,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Acute Complications of Diabetes,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Addendum,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Addendum Additional,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Addendum Report,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Additional Info,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+ADDITIONAL KEY TESTS/DIAGNOSTIC RESULTS,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Additional Lab Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Additional Medical Diagnoses,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Additional Narrative,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Additional Notes,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Additional Recommendations,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Additional Skin Issues,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+ADHD Diagnostic Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+ADHD Diagnostic Assessment/Teacher,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Admission Date,Admission Date,NULL,52455-3,NULL,N,NULL,NULL
+admission diagnosis,Hospital Admission Diagnosis Section,2.16.840.1.113883.10.20.22.4.34,46241-6,NULL,N,NULL,NULL
+ADMISSION EXAM,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+admission medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+ADMISSION Physical Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+ADMISSION PRESENTATION,Hospital Admission Diagnosis Section,2.16.840.1.113883.10.20.22.4.34,46241-6,NULL,N,NULL,NULL
+admission/discharge diagnosis,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+admit diagnosis,Hospital Admission Diagnosis Section,2.16.840.1.113883.10.20.22.4.34,46241-6,NULL,N,NULL,NULL
+admitting diagnoses,Hospital Admission Diagnosis Section,2.16.840.1.113883.10.20.22.4.34,46241-6,NULL,N,NULL,NULL
+ADRs/,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,Y,Added 12/13/2013
+Adult Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Advance Directives,Advance Directives Section,2.16.840.1.113883.10.20.22.2.21,42348-3,NULL,N,NULL,NULL
+Adverse drug reactions/drug allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Adverse Reactions,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Aerobic culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+AG/Depres/Substan/Sex Hx,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Age of First Pregnancy,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Alcohol consumption,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+All:,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+ALLERGIES - click link on left,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies and adverse reactions,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies cont`d,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies Documented,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies or drug sensitivities,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies Text,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies to Medications,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies Updated,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+"Allergies, Adverse Reactions",Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies/,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,Y,Added 12/13/2013
+Allergies/ADRs/Intolerances:,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,Y,Added 12/13/2013
+Allergies/drug sensitivity,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies/Hay Fever,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies/Intolerances:,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,Y,Added 12/13/2013
+ALLERGIES/REACTIONS,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergies/Sensitivities,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+allergy,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergy - Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,48765-2,N,Y,NULL
+Allergy History,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergy Injection,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Allergy/,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,N,Added 12/13/2013
+Allergy/Immunization,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,48765-2,N,Y,NULL
+Allergy:,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,Y,N,Added 12/13/2013
+Amniocentesis Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Anaerobic culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+"Analysis, assessment, and plan",Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,Y,NULL,NULL
+Anesthesia Addendum,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Anesthesia Follow-up,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Anesthesia orders checked and completed,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Anesthesia/Analgesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Annual Visit,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Antibiotics given,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+ANTICOAGULATION,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Antidepressants,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Antipsychotics,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Anti-Retroviral History,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Any change in other medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Any Problem?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Appointment Information,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Are immunizations up to date?,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Are medications renally adjusted?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Are the patient`s immunizations up-to-date?,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Assault Assessment and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment # 1,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment #2,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment #3,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment & Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 1,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 10,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 11,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 12,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 2,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 3,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 4,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 5,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 6,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 7,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 8,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment & Plan 9,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+"Assessment (Mental Status, Progress Toward Goal, Indications of Improvement)",Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment / Surgery Indicated,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment and Comments,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment and Management Plan for significant issues,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+assessment and plan on admission,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+assessment and plan on discharge,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment and Recommendations,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment Discussed,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment from other sources,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment of Psychological Symptoms,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment of Sexual Health,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment of Vasomotor Symptoms,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+assessment on discharge,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment Site,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment Status,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment Summary,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment summary based on the symptoms and MSE findings from above,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment Type,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Analysis,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Attending,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Diagnosis,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Dx,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Fellow,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Impression,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Assessment/Intervention/Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assessment/Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Assisted with procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Associated problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Associated Toxic Reaction,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Asthma Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Attending Addendum,Addendum,N/A,55107-7,NULL,N,NULL,"?addendum is a garbage bin?I don?t want to label things as addedum, no use.."
+Attending Assessment and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Attending Assessment/Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Attending Attestation,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Attestation,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Attestation/GC Modifiers,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Audiogram Screening Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Authorization,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Auxliary testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+B Biopsy Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+B Explain risks of maternal & fetal complications due to diabetes,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+B List chronic complications of diabetes,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Back Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Background,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Background Information,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Background/HPI/Hospital Course,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,10164-2,N,Y,NULL
+Bedside Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Bedside Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Beginning assessment/formulation of need for treatment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Behavior,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Behavior Objectives,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Behavior Objectives (patient agrees to),Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Behavioral Health,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Behavioral Objectives,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Biopsy,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Biopsy Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Biopsy results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Birth History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Birth/Obstectric problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Bleeding Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Bleeding Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Blood Bank,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Blood culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Blood Glucose Testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Blood sugar results at home,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Bowel problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+BPG Gastroenterology - Procedures Referral,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Breast Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Breastfeeding Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Breath Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Brief Diet History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Brief Family History (Family Psychiatric and Medical History),Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Brief Hospital Course,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+Brief Pain Questionnaire,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Brief rehab course by problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Brief Social History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Bronchodilator Treatment,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+C Biopsy Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+C Discuss the early signs & symptoms of chronic complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+C/O,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Caesarian Sections,Procedure Description Section,2.16.840.1.113883.10.20.22.2.27,11329-0,NULL,N,NULL,NULL
+CALL YOUR DOCTOR IF YOU HAVE,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,Added for re-admission project on 4/09/2015
+Caloric Assessment,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+"Canavans/Gaucher (Jewish, Family History)",Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Cancer History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Capsule Summary,Document Summary,N/A,55112-7,NULL,N,NULL,?
+Cardiac History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Cardiac Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Cardiac Risk Factors,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Cardiovascular examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+CARDIOVASCULAR INTERVENTIONS (provide specifics),Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Care Services,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,?
+Cataract Post Op,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Cataract Post Op Plan,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+CC,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+CC LIST,Attending Physician Name,NULL,NULL,NULL,N,NULL,NULL
+CC/HPI,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,10154-3,N,Y,NULL
+CC/HPI - ,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,10154-3,N,Y,?
+CC/Reason for Visit,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Cervical procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Change in Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Change in Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Changes since last assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Chest examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Chief Complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief Complaint-,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+"Chief Complaint (Age, Sex)",Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief Complaint (patient`s own words),Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief Complaint (required for all visits),Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief Complaint / History of Present Illness,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,Y,NULL
+Chief Complaint / HPI,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,Y,NULL
+Chief Complaint / Symptoms,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,Y,NULL
+Chief Complaint Section/ Reason for Visit,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Chief Complaint(s),Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief complaint/ reason for visit,Chief Complaint Section/ Reason for Visit,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,46239-0,NULL,N,NULL,NULL
+Chief Complaint/History of Present Illness,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,Y,NULL
+Chief Complaint/HPI,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,Y,NULL
+Chief complaint/reason for visit,Chief Complaint Section/ Reason for Visit,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,46239-0,NULL,N,NULL,NULL
+Chief Complaints,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Chief Reason For Visit,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Chief Skin Complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Child medical history,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Child PsychoDiagnostic,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Choose Behavioral Objective,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Chosen method counseling,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+CHROM Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,?
+Chronic Complications of Diabetes,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Chronic complications to your diabetes?,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Chronic Complications-Other,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Chronic problem(s),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Chronological History of Present Illness (incl interventions),History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,Y,NULL
+Clearance/Restrictions,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Clinic Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Clinic problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Clinical Care,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Clinical Course,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Clinical Impression,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Clinical Nutrition Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Clinical Presentation,Clinical Presentation,N/A,55108-5,NULL,N,NULL,NULL
+Clinical Research Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Clinician's Response,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Code Status,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Cognitive Behavioral Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Color Vision Color,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,?
+Colposcopy Examination,Procedure Findings,2.16.840.1.113883.10.20.22.2.28,59776-5,NULL,N,NULL,?
+Colposcopy Nursing Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Comment,Addendum,N/A,55107-7,NULL,N,NULL,?
+Comment/result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Comments,Addendum,N/A,55107-7,NULL,N,NULL,?
+Comorbidities,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Comorbidities Consult Letter,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,?
+Co-morbidity Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Complaints/Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+"Complaints/Problems (assess for s/s of sleep apnea, angina, pre-syncope, palpitations, SOB, othropnea, PND, lightheadedness or dizziness)",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Complementary Therapies/OTC Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+"Complete - If you check yes and the patient has not yet concluded DSME, please select a new behavioral objective",Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Complete Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Compliance ,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Complications Child,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Complications Maternal,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Complications of Treatment,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Concerning Lab Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+conclusions,Conclusions,N/A,55110-1,NULL,N,NULL,NULL
+Conclusions/Recommendations,Conclusions,N/A,55110-1,NULL,N,NULL,NULL
+Concomitant medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+condition at discharge,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+condition on discharge,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+Confidentiality,Advance Directives Section,2.16.840.1.113883.10.20.22.2.21,42348-3,NULL,N,NULL,?
+Confirm patient understanding regarding newly prescribed medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Connection Pediatrics,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Consent for anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Consent for procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Consent forms,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Constipation,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,maybe take this out?
+Constitutional / Vital Signs,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Consult History,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Consult Letter,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Consult Services,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+CONSULT VISIT,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Consult:,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Consultation requested by,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+consultations,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Consults,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Contact Info,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Contact Lens Fit Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Contact Person ,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Continue Current Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Continue Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Continuing Risk Guide,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Coordination Impairments,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Counseling,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Counseling Time,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Counseling/Education,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Cover Test,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+CPT Code,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+CT Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+CT Scan,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Cultural Factors,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Current Condition,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+Current Condition/Chief Complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,10164-2,N,NULL,NULL
+Current Conditions / Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Current Diagnosis,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Current Health Information,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+Current Imaging Procedure Descriptions,Current Imaging Procedure Descriptions,N/A,55111-9,NULL,N,NULL,NULL
+current medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Current Medications and Complementary Therapies,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Current medications/Side effects,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,Y,NULL
+Current Mental Status Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Current Orders,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Current Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Current Problems / HPI,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Current problems with teeth and/or dentures,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Current Reported Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+"Current Risk Assessment (consider violence towards self or others, dangerous substance use, ability to provide adequate self-care)",Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Current Symptoms,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+Current Treatments,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Cutaneous Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+"Cystic Fibrosis (Jewish, Family History)",Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Cystoscopy Procedure Note,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+D Discuss the prevention of long term complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+DANGER SIGNS,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Data Reviewed ,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Date and Time of Evaluation,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Date of Admission,Admission Date,NULL,52455-3,NULL,N,NULL,NULL
+Date of Arrival,Admission Date,NULL,52455-3,NULL,N,NULL,NULL
+Date of Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Date of Birth/Years Old,Birth date,NULL,21112-8,NULL,N,NULL,NULL
+date of discharge,Hospital Discharge Date,NULL,8649-6,NULL,N,NULL,NULL
+Date of Initial Consultation,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Date of last eye exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Date of last foot exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Date of last Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Date of Last Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,encounter?
+Date of Last Physical Exam / Physician Appointment,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,encounter?
+Date of Onset,Illness or injury onset date and time,NULL,11368-8?,NULL,N,NULL,NULL
+Date of Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Date of Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Deferred Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Demographic Information,Demographic information section,NULL,45970-1??,NULL,N,NULL,NULL
+Demographics,Demographic information section,NULL,45970-1??,NULL,N,NULL,NULL
+Dental Status,Oral or dental status section,NULL,46044-4?,NULL,N,NULL,NULL
+Dermatologic examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Dermatologic Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Dermatology Consult,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Dermatology Diagram,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Dermatology Photo,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Describe Goals and Objectives in SYMPTOMATIC ?and BEHAVIORAL terms,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Describe goals and objectives in SYMPTOMATIC and BEHAVIORAL terms,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Description of Current Medical Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Description of procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Details of Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Detergent allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Development,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Developmental and Social History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Developmental hip problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Developmental History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Diabetes and Pregnancy - Nurse Educator Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Diabetes Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Complications and Treatment History,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Complications-History of DKA?,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Complications-History of hypoglcemia requiring assistance?,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Complications-Most recent episode,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Complications-Preconception A1c,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Diabetes Follow Up,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Diabetes History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Diabetes medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Diabetes Nurse Education Assessment Note,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Diabetes Overview,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Diabetes Skills,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Diabetes Teaching Template,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Diabetes Training orders,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Diabetes Treatment History-Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Diabetic Assessment,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+DIABETIC EYE EXAM REPORT,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Diabetic Oral Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Diagnoses,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Diagnoses requiring treatment,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+diagnosis,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Diagnosis and Treatment Plans,Diagnosis Section,NULL,29548-5,NULL,N,Y,NULL
+diagnosis(es),Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Diagnosis/CC,Diagnosis Section,NULL,29548-5,NULL,N,Y,NULL
+Diagnosis/Impression,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Diagnosis/Plan/Instructions,Diagnosis Section,NULL,29548-5,NULL,N,Y,NULL
+Diagnosis/Reason for Visit,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Diagnosis/Recommendations,Diagnosis Section,NULL,29548-5,NULL,N,Y,NULL
+Diagnostic Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Diagnostic Imaging,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+diagnostic studies,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+DIAGNOSTIC TEST RESULTS REVIEWED,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Diagnostic Testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+diagnostic tests,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Dibetic Questionaire cont,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+DICOM Object Catalog Section,DICOM Object Catalog Section,2.16.840.1.113883.10.20.6.1.1,NULL,NULL,N,NULL,NULL
+diet,Discharge Diet Section,1.3.6.1.4.1.19376.1.5.3.1.3.33,42344-2,NULL,N,NULL,? Diet is not always discharge diet?
+Diet After Discharge,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Diet Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Diet History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Diet Recall,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Dietary Supplements/OTC meds,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Dietitian Assessment and Education,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Discharge,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+Discharge Code Status,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+discharge condition,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+discharge diagnoses,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+discharge diagnosis,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+discharge diet,Discharge Diet Section,1.3.6.1.4.1.19376.1.5.3.1.3.33,42344-2,NULL,N,NULL,NULL
+Discharge Diet Section,Discharge Diet Section,1.3.6.1.4.1.19376.1.5.3.1.3.33,42344-2,NULL,N,NULL,NULL
+discharge disposition,Hospital Discharge Disposition,NULL,8650-4,NULL,N,NULL,NULL
+DISCHARGE EXAM,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+discharge instructions,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+discharge laboratory data,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+discharge medication,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,? Should be in the dicharge medication section
+discharge medications,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,? Should be in the dicharge medication section
+discharge meds,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,NULL
+Discharge Pain Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+discharge physical examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+discharge plan,Discharge plan,NULL,58222-1,NULL,N,NULL,NULL
+discharge plans,Discharge plan,NULL,58222-1,NULL,N,NULL,NULL
+Discharge Summary,Discharge Summary,NULL,NULL,NULL,N,NULL,NULL
+DISCHARGE VITAL SIGNS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Disclaimer,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Discussion,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Discussion of problems(s),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Discussion of test results with another physician,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Discussion/Questions,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+DISEASE MANAGEMENT,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Disk problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Disposition,Hospital Discharge Disposition,NULL,8650-4,NULL,N,NULL,NULL
+Distance Vision,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+DM Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+DM Assessment DM Family Hx,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+DM History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+DM Lab,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+DM Plan DM ROS,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+DM Social Hx,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+DNI,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+DNI:,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+DNI:,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,from the nutritionists notes
+Do you have any allergies or had an allergic reaction?,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Do you have any allergies to medications?,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Do you have any food allergies or intolerances,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+"Do you have any kidney or liver problems? If yes, what kind and for how long?",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Do you have any problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Do you have problems with your skin?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Doctor's Orders ,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Document Summary,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Does the patient have a problem with fatigue or lack of energy,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Does the patient have problems with their skin,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Does the patient take medications for this problem?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Domestic Violence Dose,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Donor Evaluation,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Drug Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Drug Nutrient Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+Drug Nutrition Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+Drug-Nutrient Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+Drug-Nutrition Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+Durable Medical Equipment,Medical Equipment,2.16.840.1.113883.10.20.22.2.23,46264-8,NULL,N,NULL,NULL
+Duration/Complexity of visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+DX/Reason for referral,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+E&M Level,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,?
+Ear Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Ear Treatment,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+EASI SCREEN,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+ECG,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Echocardiogram,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+ED Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Education,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Education Instructions given,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Education/Activities,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Educational History,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+EEG,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Electronically Signed by,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Elliptical Excision,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Emergency Department Visit for Respiratory Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Emergency Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+EMG/NCS,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Emotional Support,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,?
+Encounters,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Endocrine System Endocrine,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+End-organ Damage,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+ENMT ENT,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+ENT Office Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+ENT Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+ENT Procedures Performed,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Enter from LMR Problem List (see left),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Entrance Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Environment,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Environmental allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+ENVIRONMENTAL FACTORS,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Environmental History,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+EPDS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,?psychatric evaluations
+Erectile Function,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+ESR,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Established Problem 1,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Established Problem 2,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Established Problem 3,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Estheticians Record,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+ETOH or Drug Use,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Evaluation and Management of significant Medical issues/problems prior to surgery,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Evening Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,?
+exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Exam Review of Systems,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,Y,NULL
+examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+examination type,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Exercise,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Exercise/Activity,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Experiencing any sexual problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Explained possible test results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+EXTENDED FAMILY HISTORY,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Extra Points,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Extremity examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Eye Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Eye Glasses,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Eye Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+F/U Issues,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+F/U Methods,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Facial and Oral Movements,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Fagerstrom / Dependence,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Fall Risk Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Fall/Jump,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Falls Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Fam,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Fam / Soc Hx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Fam Hx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Fam/Soc Hx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+FamHx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+FamHx (per the patient),Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family / Social History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family and Social history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family Contact Information,Emergency contact information,NULL,56796-6?,NULL,N,NULL,NULL
+Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History - Conditions in family members,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History (Blood Relationships Only),Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History (psychiatric and relevant medical),Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History / Social,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History / Social History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History Of,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of ?Cancer,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Anesthetic Problems,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Breast Cancer,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of CHD?,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family history of depression,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family history of diabetes?,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Kidney Cancer,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Mental Illness and Substance Abuse,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Obesity,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family history of prostate ?cancer,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History of Skin Cancer,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family history of stones,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History Review,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History Risk Factors,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family History/Social,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,Y,NULL
+Family history/social history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family Hx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family Hx per records,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family Medical History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+family planning visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,?
+family psychiatric history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family/Social history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family/Social Hx/Meds/Allergies,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Family/Social Hx/Meds/Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Fatigue/sleeping problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Female or sexual problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Female Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+FH,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+FHx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+FHx/SHx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Films & Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+final diagnosis,Postprocedure Diagnosis Section,2.16.840.1.113883.10.20.22.2.36,59769-0,NULL,N,NULL,NULL
+Final Path Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Findings (axilla),Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Findings Visual/Palpable/Test Results,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Findings Visual/Palpable/Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Findings/Notes,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Findings/Pathology,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+FindingsVisual/Palpable/Test Results,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+FindingsVisual/Palpable/Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Fingerstick glucose result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+First Problem Diagnosis,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+FISH Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+FOB Medications/exposures,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+FOB Medications/exposures comment,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Focused Skin Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Follow these important instructions below,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,Added for re-admission project on 4/09/2015
+Follow Up,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Follow up Appointments,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Follow up visit,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Follow-up,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Follow-up of Surgery,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Follow-up Scheduled,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Follow-up Visit,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Food Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+"Food Allergies (Infant, Adolescent, Adult)",Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Food Allergies/Intolerances,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Formulary medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+"Formulation and Risk Assessment (risk behavior includes suicidality and any other significant injurious behavior eg substance misuse, self-mutilation, self-starving, frequent bingeing, failure in work/relationships)",Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+FU Surgery,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Full skin Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Functional Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Functional Gait Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Functional Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Functional Problem List,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Functional Status,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+Fungus culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Further Evaluation,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Gait Deviations,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Gastrointestinal examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Gastrointestinal Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Gastrointestinal Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+General Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+General examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+General Info for Teens,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,?
+General Knowledge,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,?
+General Overall Health,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+General Overall Health State,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+General Physical,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+General Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+General Status Section,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+Genetics,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Genitourinary,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Genitourinary examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Get Up and Go Test,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+GI / Menses,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+GI Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+GI GLU ,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+GI indications/reasons for consult/procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+GI Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Glasgow Coma Score,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Global Judgements,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+Glycemic Symptoms,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+Goals,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Goals and Objectives,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Goals and Objectives (measurable concrete achievable goals),Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Goals/Expected Outcomes,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Gross Strength/ROM Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Group Therapy Details,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Growth and Development,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+GU - Female,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Gyn,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+GYN Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+GYN Screening,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Gynecologic History,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Gynecologic Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Gynecology Flow Record,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Habits,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Hand - Physical/Occupational,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Handouts:,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+"Has the patient had any blood work, x-rays, or other types of procedures done?",Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Has the patient had mental health problems in the past,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Have you been tested for allergies?,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+HCG,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Health History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Health Maintenance,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Health Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Health Risk Assessment Updated,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Hearing problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Heart problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+HEENT examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Hematologic ?Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Hemophilia/Hereditary Blood Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Hep C Tx,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+her family history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+High risk based on one or more of the following documented complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+his family history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,Y,NULL,NULL
+History and Physical,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,29545-1,N,Y,NULL
+HISTORY HISTORY,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+History of Breast Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+History of Current Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+History of Past Illness Section,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+history of present illness,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness (current symptoms),History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness (including onset/duration),History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness (location/quality/timing/severityduration/associated symptoms/moderating factors/context),History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness (Subjective Data),History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness / Chief Complaint,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness and Precipitating Events,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illness/Chief Complaint,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,10154-3,N,Y,NULL
+history of present illness/hospital course report history of present illness/hospital course,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History of Present Illnesses,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History present illness,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+History significant for papsmear results showing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,?
+History Substances,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+History/Chief Complaint,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,10154-3,N,Y,NULL
+Hobbies Home Care Plan,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,?
+Home Environment,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Home Glucose Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Home Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Home Meds,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Hormone Replacement Therapy,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Hospital Admission Diagnosis Section,Hospital Admission Diagnosis Section,2.16.840.1.113883.10.20.22.4.34,46241-6,NULL,N,NULL,NULL
+Hospital Admissions for Respiratory Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+HOSPITAL CARE TEAM,Attending Physician Name,NULL,NULL,NULL,N,NULL,NULL
+Hospital Consultations,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+hospital course,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+Hospital Discharge Diagnosis Section,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+Hospital Discharge Instructions,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Hospital Discharge Medication Section,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,NULL
+Hospital Discharge Physical,Hospital Discharge Physical,1.3.6.1.4.1.19376.1.5.3.1.3.26,10184-0,NULL,N,NULL,NULL
+Hospital Discharge Studies Summary,Hospital Discharge Studies Summary,2.16.840.1.113883.10.20.22.2.16,11493-4,NULL,N,NULL,NULL
+HOSPITALIZATION SUMMARY,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+Hospitalizations,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+HPI,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI - History of Present Illness,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI - Knee / Pain,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI Elements,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI with Qualifiers,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Carotid,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/CC,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Cold Feet,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Dyspnea,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Headache,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Leg Ulcer,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/Palpitations,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPI/ROS/Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,10164-2,N,Y,NULL
+HPI/Wheezing / Asthma,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+HPV Test Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+HPV vaccine given today,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+HRT,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+HSCT Donor Follow Up Part 1,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,?
+HSCT Donor Follow Up Part 3,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,?
+HV Impendance Lead Analysis,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+HXF,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,?
+Hyperglycemic Symptoms,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+Hypertension Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Hypoglycemia Assessment/Counseling,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Hypoglycemic Symptoms,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+ICU Admissions for Respiratory Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Identifier,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Identifier Imaging Studies,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,?
+Identifies acute complications and how to prevent/detect/treat,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+"If patient has been on this medication for > 3 months, is narcotic contract in place?",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,Y,NULL,NULL
+Imaging Immunizations,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,?
+Imaging procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Imaging Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Imaging Studies,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Immunization,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Immunizations,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Immunizations Current,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Immunizations Given,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Immunizations UTD,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Immunizations/ Alternative Therapies,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,Y,alternative therapies
+Impairments,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,?
+IMPORTANT COMMUNICATION TO OUTPATIENT CARE PROVIDERS,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Impression,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Impression & Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Impression / Recommendations,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Impression and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Impression of Dx,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Impression/Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Impression/Problem List,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+IMPRESSION/PROBLEMS,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Impressions (problems/strengths),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Impressions/Plans,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+IMPRESSON AND PLAN,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+In Office Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+INCISIONS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+"Incontinence Medications (compliance, results, side effects)",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+INDICATION,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Indication for Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Indications,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+indications and findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+indications for procedure,Planned Procedure Section,2.16.840.1.113883.10.20.22.2.30,59772-4,NULL,N,NULL,NULL
+Individual Needs,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Infusion Report Form - IVIG,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Initial Assessment & Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Initial Assessment/Summary,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Initial Interview/Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Initial Nursing Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Initial OB Physical Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+INITIAL ORTHO TRAUMA CONSULT,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Initial Prenatal Screen,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Initial Risk Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Initial Summary Statement,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Initital Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+In-Office Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+In-Office Proceedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Inpatient Med,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,10160-0,N,Y,NULL
+Inpatient Medication,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,10160-0,N,Y,NULL
+inpatient medications,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,10160-0,N,Y,NULL
+Inpatient Meds,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,10160-0,N,Y,NULL
+INR Goal,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+INR Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Instructions After Aortic Valve Replacement Surgery,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Instructions After Kidney Injury,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,Added for re-admission project on 4/09/2015
+Instructions for Your Afib,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,Added for re-admission project on 4/09/2015
+Instructions Given to VNA/Facility,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+INSTRUCTIONS GIVEN TO YOUR PATIENT AT DISCHARGE,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Insulin Administration,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,NULL,N,NULL,NULL
+Insurance Information,Health insurance card?,NULL,64290-0?,NULL,N,NULL,NULL
+Interim History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Interperter Service,Interpreter needed?,NULL,54588-9?,NULL,N,NULL,NULL
+Interval Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Interval History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Interval Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Intervention,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Is further assessment or treatment of any pain necessary?,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,Y,NULL,NULL
+Is initial or further medical assessment necessary?,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,Y,NULL,NULL
+Is neurologic assessment necessary?,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,Y,NULL,NULL
+"Isoimmunization (Rh, etc)",Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,?
+IV line culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+IVP Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Key Images,Key Images,N/A,55113-5,NULL,N,NULL,?
+Kidney or bladder problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Kidney Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Known Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Known Immunizations (17 years and under)/Up to Date,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+KOH KUB,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab Results Reviewed,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+lab test,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Lab Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab Tests Lab,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab Work,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab/Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Lab/Xray,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,NULL
+Lab/Xray Findings,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,NULL
+laboratories,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Laboratory,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Laboratory data,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+laboratory data on discharge,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,NULL
+laboratory findings,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Laboratory Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Laboratory Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Labs,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+LABS AND STUDIES,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Labs Lens,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Labs Ordered,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Labs Ordered/Drawn,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Labs/ X-ray Findings,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,NULL
+Labs/Other Findings,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Last cervical bx result & date,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Last HIV/result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Last Menstrual Period,Date last menstrual period?,NULL,8665-2?,NULL,N,NULL,NULL
+Last pap result & date,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Last Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Learning Objectives,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Learning objectives were reviewed,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Legal History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Letter Follow Up,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Lifestyle Management,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Limiting Factors,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Line culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Lipid Abnormality,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+List Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+List other post-tx complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+List peri-op complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Liver Function Test,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Long Term Goals,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Lower Extremity Vascular Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+LUNG ASSESSMENT,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Lung Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+LVEF Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Lymph Node Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Lymph nodes/heme examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Macrovascular Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Main Concerns/Fears,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Major Problem Identified Today,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Major Problem Identified Today and Treatment,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Male Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Marital History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Marital Status,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Maternal History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Maternal Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Maternal Problems in Hospital,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+MD Chart Review,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+MD Counseling,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+MD Phone Call,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Med,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medical (General) History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,def can be expanded
+Medical and Surgical Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Medical Clearance,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,?
+Medical decision making,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Medical Equipment,Medical Equipment,2.16.840.1.113883.10.20.22.2.23,46264-8,NULL,N,NULL,NULL
+Medical History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Medical History/Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Medical Medication Changes,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medical Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Medical Problems/Symptoms,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Medical Problems/Symptoms/Risk Factors,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+medical summary,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Medically Cleared by,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Administration Record (ENT),Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Administration Record (Eye),Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Medication Changes,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Comments,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Instructions,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication List,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Reconciliation,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Reconciliation Completed,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Reconciliation in the Urgent Care Center,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Reconciliation Performed,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Review,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Section,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medication Trial,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Medication trials,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Medication Use Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Medication/Anesthesia Plans,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+"Medication-related (eg, risks and benefits, options, psychoeducation)",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+MEDICATIONS - click link on left,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+"Medications (Including Herbal, OTC)",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+"Medications (including supplements, vitamins, herbs or OTC drugs/illicit/recreational drugs/alcohol since last menstrual period (If yes, agent(s) and strength/dosage)",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Administered,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Administered,Medications Administered Section,2.16.840.1.113883.10.20.22.2.38,29549-3,NULL,N,NULL,"many are under medication section instead of this category, suggest we delete the branches as this and discharge meds?"
+Medications not under protocol,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+medications on admission,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+medications on discharge,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,? Should be in the dicharge medication section
+medications on transfer,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications on Transfer to Rehab,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Ordered/Prescribed,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Prescribed,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Reviewed,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications reviewed and updated,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Risks/Benefits,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Taken,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications Text,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+MEDICATIONS to be given just prior to transfer to Operating Room,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications to prevent complications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications trial,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Medications Updated,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications/exposures,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications/exposures comment,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications/Side Effects,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medications/Treatments,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Medicine Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Medicines,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Meds,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Meds on D/C Home,Hospital Discharge Medication Section,2.16.840.1.113883.10.20.22.2.11,10183-2,NULL,N,NULL,NULL
+Meds/Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Menstrual History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,?
+Mental Health,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,?
+Mental Health Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Mental Status Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Message/Chief Complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Method of Notification,Emergency contact information?,NULL,56796-6,NULL,N,NULL,NULL
+Miscellaneous Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Missed Appointment,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Mode of arrival Module 1,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,?
+Monitoring,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+MONO MOVEMENT RATINGS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Montreal Cognitive Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Most Recent BWH EKG Result During This Admission,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+MOST RECENT REPORTED BWH LAB VALUES DURING THIS ADMISSION,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Motivational assessment/interventions,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Motivational assessment/interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Motor Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+MRN,MRN,NULL,NULL,NULL,Y,NULL,NULL
+Multi-Axial Diagnoses/Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Musculoskeletal Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Musculoskeletal Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+N/V signs,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Name of MD,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Narrative History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Negative Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Neonatal problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+NEURO ASSESSMENT,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Neuro chief complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Neuro problem list,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Neurobehavioral Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+"Neurological complications (if yes, describe)?",Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Neurological Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Neurological Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Neurological/Psychiatric Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Neuro-test,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+New Allergies?,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+New complaints or problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+New Patient Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+New Problem 1,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+New Problem 2,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+New Problem 3,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Next Follow up Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Next Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Next Well Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+NICHQ/Vanderbilt Assessment Scale Scoring Detail,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Night/Bedtime,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+NIPPLE ASSESSMENT,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Non-OR Procedures,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+"Notable issues, problems and recommendations",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Nurse Phone Call,Follow-up contact supplemental information,NULL,42078-6,NULL,N,NULL,?
+Nursing Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nursing Assessment (Objective Data),Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nursing Assessment (Objective Data),Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Nursing Assessment/Problem Identification,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Nursing Assessment/Problem Identification,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nursing Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+NURSING PHONE TRIAGE,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition - Initial Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition assessment scheduled/date,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition Drug Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+Nutrition Education,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Nutrition Initial Assessment Note,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition OB/GYN History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,?
+Nutrition Pregnancy Initial Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutrition Related Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Nutritional Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Nutritional Diagnosis/Problem(s),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Nutritional Diagnosis/Problems(s),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Nutritional Management,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Nutrition-Drug Interaction,Drug-Nutrient Interactions,N/A,N/A,N/A,N,NULL,NULL
+NYHA Classification,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+OB ULTRASOUND REPORT,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+OB/GYN History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,?shall we separate and set up OB/GYN section
+Obesity Related Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Obesity Risk Factor Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Objective,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Objective (Progress Note),Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Objective Data,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+Objective Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,?
+Objective Findings,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,? Should this be findings?
+Objective Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Objective Tinnitus,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+Objective/MSE,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+Objectives,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Obstectrical History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Obstetric ROS,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Obstetrical History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Obstetrical Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Occupational Therapy,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,?
+Ocular allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Ocular History/Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Ocular Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Ocular Medications (OTC only),Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Ocular Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Ocular Procedures Performed,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+OD/OS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Office Hysteroscopy,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Office Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Office Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Office testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Office Tests,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+OMT,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+On physical exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Oncologic History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Oncology Staging,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+operation,Operative Note Surgical Procedure Section,2.16.840.1.113883.10.20.7.14,10223-6,NULL,N,NULL,NULL
+operations,Operative Note Surgical Procedure Section,2.16.840.1.113883.10.20.7.14,10223-6,NULL,N,NULL,NULL
+Operations / Conditions / Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Operative findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Operative Letter,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Operative Note Fluid Section,Operative Note Fluid Section,2.16.840.1.113883.10.20.7.12,10216-0,NULL,N,NULL,NULL
+Operative procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Ophth - OS,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Ophthalmic Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Ophthalmologist,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Ophthalmology Reason For Visit,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Opioid Pain Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Optic Nerve & RNFL Testing,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Optic Nerve Evaluation,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+OR Procedure to be Scheduled?,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Oral Agents-Insulin-Acute Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Ordered Labs,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Ortho Surgical Booking,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Other Activity Restriction,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+OTHER DANGER SIGNS,Hospital Discharge Instructions,2.16.840.1.113883.10.20.22.2.41,8653-8,NULL,N,NULL,NULL
+Other eye diseases,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Other Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Other Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Other GYN,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Other Medical Diagnoses,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+other medical problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Other Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Other Medications Given,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Other Others in household,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Other Pain Diagnoses,Diagnosis Section,NULL,29548-5,NULL,N,NULL,?
+Other Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Other Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Other Procedures-,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Other Procedures/Comments,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Other sig findings (sensory etc),Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Other Surgeries / Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Other Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Other/Health Other,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Out of Gym/Sports/Work,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Outpatient Pediatric Nutrition Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Overnight Events,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Pachymetry,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,Y,NULL,NULL
+Pain Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+PAIN ASSESSMENT - MA,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Assessment History,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Beliefs and Behaviors,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Pain Comment Pain Diagnoses,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Pain Diagnosis,Diagnosis Section,NULL,29548-5,NULL,N,NULL,NULL
+Pain History Assessment Reviewed and Updated,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Level - Post Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pain Level - Pre Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pain Level Re-Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Medications(s),Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Pain Rating (use pain assessment),Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Re-Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Pain Treatment Pain Treatment,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+PALLIATIVE CARE REVIEW,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Parent medical history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Parental Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Participation Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Past Anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Past Anesthesia Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Past GU History,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+past gyn history,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Past History,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+past history section,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Past Med,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Med Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+past medical history,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medical History and ROS,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medical Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medical Problems,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+past medical/surgical history,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medication,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medication History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medication Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medications,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medications for skin problems,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medications History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Medications Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Meds,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Past Meds Hx,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+past ob history,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Past pap/colpo history,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+past psychiatric history,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+past surgical history,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Past Visits,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Path Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Pathology results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Pathology results discussed,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Patient  / Family history of PEs,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient / Family history of DVTs,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient / Family history of Liver Problems,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient able to demonstrate,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Patient Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Patient Assessment (per patient report),Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Patient comes for,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Patient Counseling and Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Patient Counseling/Education,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Patient Education,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Patient given information regarding possible reproductive concerns pertinent to Nursing Assessment or Patient Education Flowsheet?,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Patient Goals,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Patient had breathing or swallowing problems with the initial polio,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has family history of arthritis,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient has family history of diabetes,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient has family history of heart disease,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient has had history of allergies or immunologic problems,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Patient has had history of allergies or immunologic problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+"Patient has had history of ear, nose, mouth or throat problems",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of eye problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of gastrointestinal problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of genitourinary problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of musculoskeletal problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of neurological problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of psychiatric problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of respiratory problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has had history of thyroid problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has new breathing problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient has new swallowing problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient History and Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Patient Information,Patient information - acute-CARE,NULL,69326-7,NULL,N,NULL,NULL
+Patient Instructed to Finish All Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Patient Instructions,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Patient Journal Summary,Document Summary,N/A,55112-7,NULL,N,NULL,?
+Patient Labs,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Patient Name,Patient information - acute-CARE,NULL,69326-7,NULL,N,NULL,NULL
+Patient Outcome Scores,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Patient Reported Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Patient Representative,Patient information - acute-CARE,NULL,69326-7,NULL,N,NULL,?
+Patient Signature,Patient information - acute-CARE,NULL,69326-7,NULL,N,NULL,?
+Patient To Do Test,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Patient tolerated procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Patient tolerated procedure well,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Patient Treament Notes Objective Findings,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+Patient Treament Notes Objective Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Patient understanding,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Patient/Family history of DVTs,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient/Family history of Liver Problems,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient/Family history of Liver Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Patient/Family history of PEs,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Patient`s physical exam was normal,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Patient's attending,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Patient's data,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Payers,Payers,2.16.840.1.113883.10.20.22.2.18,48768-6,NULL,N,NULL,NULL
+PCP,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+PCP Phone,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+PE,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Pedi chief complaint,Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+Pedi problem list,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Pediatric Outreach,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Pelvic Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Pelvic Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Pelvic Examination Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Pentamidine Treatment,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Peripheral line culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Peripheral venous assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Personal and social history,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Pertinent Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Pertinent Laboratory Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Pertinent Medical History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Pertinent Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Pertinent Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Pertinent test results/physical findings,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Pertinent test results/physical findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Pharmacist`s Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+PHM/FH/Meds/Allergies/ROS,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+PHM/FH/Meds/Allergies/ROS,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Phone Call,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Phone Call Follow Up,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Photo / HRT / VF,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,?
+Photo Letter,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,?
+Physical Activity,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Physical Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Physical Assessment (objective data),Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Physical Assessment (objective data),Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam -- General,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam - Hip,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam ?After Neb,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam (Back Bay),Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam (PE),Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Ankle,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Arm,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Calf/Lower Leg,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Cervical Spine,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Due,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Elbow,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Foot,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Forearm,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Gait,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Hand,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Hip/Pelvis,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Knee,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Lumbar Spine,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Neurovascular,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+PHYSICAL EXAM ON ADMISSION,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam on Transfer,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Other,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical exam schedule after,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Shoulder,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Thigh,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Thoracic Spine,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Today?,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exam Wrist,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Exame,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Physical Examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+physical examination on admission,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+physical examination on discharge,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+PHYSICAL FINDINGS,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Physical Therapy assessment scheduled/date,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Physical Therapy Referral,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+PHYSICAL THERAPY Rx,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Physician,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Physicians,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+picc culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+plan,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan / Education,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan and Assessment,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Plan External Labs,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan for Follow up,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan For Surgical Procedure,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+plan of care,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan Podiatrist,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Plan- To Do List,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Planned Anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Planned Procedures,Planned Procedure Section,2.16.840.1.113883.10.20.22.2.30,59772-4,NULL,N,NULL,NULL
+Planned Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Please Call-,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+PMH,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+PMH/FH/Meds/Allergies/ROS,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+PMH/Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+PMHx,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+POCT Pacemaker,Medical Equipment,2.16.840.1.113883.10.20.22.2.23,46264-8,NULL,N,NULL,NULL
+POCT Pacemaker?,Medical Equipment,2.16.840.1.113883.10.20.22.2.23,46264-8,NULL,N,NULL,NULL
+Polio Medical History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Polio Patient Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Positive Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Positive Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Post ED Visit Call,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Post Op Plan,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Post Procedure BP,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post Procedure Inspection,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,Y,?
+Post Procedure Medication,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Post Procedure Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Post Procedure Pain Level,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post Procedure Pain Score,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post procedure pain score (0-10),Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post Procedure Pulse,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post Procedure Resp Rate,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Post Procedure Temp,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+postop diagnosis,Postoperative Diagnosis,2.16.840.1.113883.10.20.22.2.35,10218-6,NULL,N,NULL,NULL
+Postoperative Care,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+postoperative diagnosis,Postoperative Diagnosis,2.16.840.1.113883.10.20.22.2.35,10218-6,NULL,N,NULL,NULL
+Postpartum Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Postpartum Physical Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Postpartum Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+"Post-procedure bronchoscopy findings, if done",Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+"Post-procedure bronchoscopy findings, if done",Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Postprocedure Diagnosis Section,Postprocedure Diagnosis Section,2.16.840.1.113883.10.20.22.2.36,59769-0,NULL,N,NULL,NULL
+Post-Treatment Reassessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Potential Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Pre Op Consultation,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+Pre Procedure BP,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Dx,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Form,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Pain Level,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Pulse,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Resp Rate,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Temp,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre Procedure Verification,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre-Admission Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Precautions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Pregnancy Complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Pregnancy History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Pre-Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Premedications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Prenatal problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+preop diagnosis,Preoperative Diagnosis,2.16.840.1.113883.10.20.22.2.34,10219-4,NULL,N,NULL,NULL
+Pre-Operative Consult,Hospital Consultations,2.16.840.1.113883.10.20.22.2.42,18841-7,NULL,N,NULL,NULL
+preoperative diagnosis,Preoperative Diagnosis,2.16.840.1.113883.10.20.22.2.34,10219-4,NULL,N,NULL,NULL
+Prep/Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Pre-Procedure Verification,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Present Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+present meds,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Present Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Presenting Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Presenting problem / reason for referral,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Presenting problem / reason for referral,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+Presenting Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Presently taking medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Preventing complications,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Preventive Checklist,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Preventive Health,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Preventive Health History,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+Previous Labs/Evaluations/Procedures,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,Y,NULL
+Previous medication trial,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Previous medication trials,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,10160-0,N,Y,NULL
+Previous Surgeries/Dates,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+PREVIOUS SURGERIES/FAMILY HX OF ANESTHESIA PROBLEMS,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?? Family hx? PMH?
+PREVIOUS SURGERIES/FAMILY HX OF ANESTHESIA PROBLEMS,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Previous test results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Previous Testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,Y,?PMH and results?
+Previous Treatment of problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Primary Insurance,Health insurance card?,NULL,64290-0?,NULL,N,NULL,NULL
+principal discharge diagnosis,Hospital Discharge Diagnosis Section,2.16.840.1.113883.10.20.22.2.24,11535-2,NULL,N,NULL,NULL
+Prior Imaging Procedure Description,Prior Imaging Procedure Description,N/A,55114-3,NULL,N,NULL,NULL
+Problem,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem #,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem #1,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem #2,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem #3,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 1,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 1 and Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Problem 100,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 2,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 2 and Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Problem 3,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 3 and Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Problem 4,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 4 and Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Problem 5,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 6,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 7,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem 8,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem Areas,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem Based Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem List,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem List Updated,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem oriented plan (for patients who will receive treatment here),Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Problem(s),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problem/Reason for Consult,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems (Past Medical History),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems (specific functional impairment),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems and Plans,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems during pregnancy,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems Identified,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems or Concerns?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems reviewed with patient,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems Text,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems with eye medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Problems with immunizations?,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,question marks?
+Problems/Impairments,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems/Impairments (Pelvic Dysfunction),Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems/Plan,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems/Plans,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,Y,NULL
+Problems/Progress,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Problems?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (1),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (2),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (3),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (4),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (5),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (6),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (7),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure (8),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure 1,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure 2,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure 3,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure 4,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Addendum,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Addendum,Addendum,N/A,55107-7,NULL,N,NULL,NULL
+Procedure date,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Description Section,Procedure Description Section,2.16.840.1.113883.10.20.22.2.27,29554-3,NULL,N,NULL,NULL
+Procedure detail,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure details,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Disposition Section,Procedure Disposition Section,2.16.840.1.113883.10.20.18.2.12,59775-7,NULL,N,NULL,NULL
+Procedure End Time,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Estimated Blood Loss,Procedure Estimated Blood Loss,2.16.840.1.113883.10.20.18.2.9,59770-8,NULL,N,NULL,NULL
+Procedure Findings,Procedure Findings,2.16.840.1.113883.10.20.22.2.28,59776-5,NULL,N,NULL,NULL
+Procedure Implants,Procedure Implants,2.16.840.1.113883.10.20.22.2.40,59771-6,NULL,N,NULL,NULL
+Procedure in detail,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure in minor surgery,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Indications Section,Procedure Indications Section,2.16.840.1.113883.10.20.22.2.29,59768-2,NULL,N,NULL,NULL
+Procedure Info,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Information,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure location,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Medications,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,Y,NULL
+Procedure Method,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure name,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Note,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+procedure performed,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure R&B signed,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure site checked,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Specimens Taken,Procedure Specimens Taken,2.16.840.1.113883.10.20.22.2.31,59773-2,NULL,N,NULL,NULL
+Procedure Start Time,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure Tolerated,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure/Consent,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedure/Treatment,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures (Surgical History),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures and Ancillary Services,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures done while at rehab,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures explained at time out,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures Performed During this Visit,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures Performed this Visit,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures Prognosis,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures Scheduled,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Procedures Text,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Prognosis,Overall prognosis for recovery from this episode OASIS,NULL,46523-7?,NULL,N,NULL,?
+Progress Since Last Visit,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,?
+Protective factors,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,?
+Protocol,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Provider Order Sheet,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Psych Psychiatric Fam/Soc Hx,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,29762-2,N,Y,NULL
+Psychiatric history,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Psychiatric History,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Psychiatric Status,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,?
+Psychoactive Substance Use,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Psychological examination,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Psychological Treatment,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Psychosocial Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Psychosocial History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Psychosocial Interventions (months),Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Psychosocial Status,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Pt Education provided on,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+PT PLAN OF CARE,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+PT Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Pt Returns For,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+R&B note anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+RADIOLOGISTS SIGNATURES,Attending Physician Name,NULL,NULL,NULL,N,NULL,NULL
+Radiology Study -Recommendations,Radiology Study -Recommendations,N/A,18783-1,NULL,N,NULL,NULL
+Radiology/Nuclear Medicine,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Reactions to dental/other local anesthesia (novocaine)?,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+reason for admission,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Reason For Call,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Reason For Call Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Reason for Consult,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Reason for Consultation,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Reason for Hospitalization,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Reason for Referral,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+Reason for Referral 2,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+Reason for Referral 3,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+Reason for Visit,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reason for Visit (patient`s own words),Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reason for Visit (subjective data),Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reason for Visit/ Chief Complaint,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reason for Visit/Chief Complaint,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reason for Visit/Chief Complaint,Chief Complaint Section/ Reason for Visit,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,46239-0,NULL,N,NULL,NULL
+Reason for Visit?,Reason for Visit Section,2.16.840.1.113883.10.20.22.2.12,29299-5,NULL,N,NULL,NULL
+Reassessment 1,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Reassessment 2,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Reassessment 3,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Reassessment 4,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Recent Blood Pressure Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Recent BP findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+recent examinations,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Recent Imaging Studies,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Recent labs,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Recent Medication Changes with date,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Recent Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Recent studies,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Recent Updates,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Recheck,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Recommendation,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Recommendations,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+"Recommended preventive behaviors, interventions, or genetic testing",Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Reconciled Medication List,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Reconstitution Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Recreational drug use,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Refer for Advance Directives Triage Nurse,Advance Directives Section,2.16.840.1.113883.10.20.22.2.21,42348-3,NULL,N,NULL,NULL
+Reference Ranges,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Referral Information,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Referred by,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Referred by Referring MD,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Referring MD,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Referring physician,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Referring Provider,Attending physician name?,NULL,52526-1,NULL,N,NULL,?
+Reflex Abdomen,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Reflex Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Refraction,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Regular exercise,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Rehab Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Rehabilitation Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Relevant Concurrent Medical Problems/Symptoms,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+RELEVANT FAMILY HISTORY,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Relevant History,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+"Relevant, Concurrent Medical Problems/Symptoms",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Renal Ultrasound Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Report dictated,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Reported Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Resident Assessment and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Respiratory Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Respiratory System,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Restlessness Observation during assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results Follow Up,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results of physician visit/testing,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results of Physician visit/tests,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results of the above will be communicated to you,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results Return Visit,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Results Statement,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Return Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Review of Additional Records,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Review of Donor Data,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Review of records,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Review of Result Notification and Follow-up Procedure,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Review of Symptoms,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Review of Symptoms,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Review of Systems (Pain Center),Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Review of Systems (ROS),Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Review of Systems/Symptoms,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Reviewed By,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Reviewed personal and family history (as described below)?,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Reviewed:,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Rheumatology Exam,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Risk Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Risk Factors,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Risk Status,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Risks,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+RN's Signature,RN name,NULL,NULL,NULL,Y,NULL,NULL
+ROM Assessment/Gross Strength,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+ROS,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+ROS - Review of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+ROS Attending Attestation,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Routine Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Rx,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Rx Renewal for Blood Pressure Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Rx Renewal for Cholesterol Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Rx Renewal for Diabetic Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Rx Renwal for Thyroid Medication,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Safety,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Safety Issues,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Sagittal alignment assessment,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+"Scents, oils, lotion allergies",Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+School/Environment,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Schwartz Outcome Scale Score,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Score ETOH,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Scratch Testing,Results Section,2.16.840.1.113883.10.20.22.2.3,NULL,NULL,N,NULL,NULL
+Seasonal Allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Secondary procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Secondary Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Section I,Section Header,NULL,NULL,NULL,Y,NULL,NULL
+See last procedure note,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Sexual History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+SH,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+She is on the following medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,Y,NULL,? He
+Short Term Goal,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Short Term Goals,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Shots/Immunizations,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,N,NULL,NULL
+SHx,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Sibling medical history,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Side Effects,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Signature,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Significant Findings,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Significant Health/Psychosocial History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Significant Illness/Injury since last physical exam?,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Significant Meds,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Significant Past History,History of Past Illness Section,2.16.840.1.113883.10.20.22.2.20,11348-0,NULL,N,NULL,NULL
+Significant Surgical and Invasive Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Signs of allergies,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+Since the Last Visit,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+Site Biopsy Procedure Note,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Skeletal Review Of Systems,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Skin Exam,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Skin Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+SKIN TEST PANEL;,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Skin Test Result Positive,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Sleep,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,Y,NULL,NULL
+Sleep Medications and/or comments,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Sleep Study,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Sleep/Exercise/Diet,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Sleep/Exercise/Diet Smoker,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Slit Lamp,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+SMBG,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Smoking and Alcohol History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Smoking History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Soc Hx,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+SOC HX / Habits,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+SOC HX/Habits,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social / Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Social and Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Social Data,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social history - ETOH,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social history - IVDU,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social history - Other,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social history - TOB,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social History (may contain confidential material),Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+SOCIAL HISTORY (per lmr),Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+"Social History (Smoking, Computer Use, Able to Drive?, Occupation, Lives with?)",Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social History / Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Social History Habits,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social History Review,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social History/Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Social Hx,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social Work,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Social Work Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Social Work Intervention,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,?
+Social/Family History,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+SOCIAL/FAMILYHISTORY,Family History Section,2.16.840.1.113883.10.20.22.2.15,10157-6,NULL,N,NULL,NULL
+Soft tissue assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Special Considerations,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Special Learning Needs,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Specify behavior objective and how it will improve health,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+specimen,Procedure Specimens Taken,2.16.840.1.113883.10.20.22.2.31,59773-2,NULL,N,NULL,NULL
+Specimen Information,Specimen-related information panel,NULL,68992-7,NULL,N,NULL,NULL
+Specimens,Specimen-related information panel,NULL,68992-7,NULL,N,NULL,NULL
+Spinal problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Sputum culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+Standing coronal postural assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+States name and schedule for use of oral medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Status Check,General Status Section,2.16.840.1.113883.10.20.2.5,10210-3,NULL,N,NULL,NULL
+"Stomach, bowel or gallbladder problems",Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Strength Impairments,Physical Exam Section,2.16.840.1.113883.10.20.2.10,29545-1,NULL,N,NULL,NULL
+Stress Management,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Subjective,Subjective,2.16.840.1.113883.10.20.21.2.2,61150-9,NULL,N,NULL,NULL
+Subjective (Progress Note),Subjective,2.16.840.1.113883.10.20.21.2.2,61150-9,NULL,N,NULL,NULL
+Subjective Complaints,Chief Complaint Section/ Reason for Visit,2.16.840.1.113883.10.20.22.2.13,46239-0,NULL,N,NULL,NULL
+Subjective History,History of Present Illness Section,1.3.6.1.4.1.19376.1.5.3.1.3.4,10164-2,NULL,N,NULL,NULL
+"Subjective/Objective Progress (ieepisodes of incont, voiding freq)",Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,?
+"Subjective/Objective Progress (ieepisodes of incont, voiding freq)",Subjective,2.16.840.1.113883.10.20.21.2.2,61150-9,NULL,N,NULL,NULL
+Substance Abuse,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Substance Treatment History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Substance Use History,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+Substances,Social History,2.16.840.1.113883.10.20.22.2.17,29762-2,NULL,N,NULL,NULL
+summary,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Summary of Assessment and Patient Priorities,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Summary of coaching,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Summary Statement,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Supervising Physician,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Supervisor Sign-off,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Surgical (OR) Procedures,Hospital Course Section,1.3.6.1.4.1.19376.1.5.3.1.3.5,8648-8,NULL,N,NULL,NULL
+Surgical Drains Section,Surgical Drains Section,2.16.840.1.113883.10.20.7.13,11537-8,NULL,N,NULL,NULL
+Surgical History/Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Surgical Procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Surgical Procedure(s),Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Symptom Checklist,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Symptoms,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Symptoms and Side Effects,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+Systemic Review,Review of Systems Section,1.3.6.1.4.1.19376.1.5.3.1.3.18,10187-3,NULL,N,NULL,NULL
+Take oral medications for diabetes?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+"Taking Medications Regularly, Compliant?",Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Target symptoms,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+TECHNIQUE ,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Telephone Encounter,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Termination Summary,Document Summary,N/A,55112-7,NULL,N,NULL,NULL
+Test,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Test Data,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Testing and Procedures,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Testing/Carotid,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Testing/Venous,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+The child takes medications on weekends and over vacations?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+The procedure was performed by,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Therapeutic Ultrasound,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Therapist's Signature,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Therapy Referral,Reason for Referral Section,1.3.6.1.4.1.19376.1.5.3.1.3.1,42349-1,NULL,N,NULL,NULL
+Third Tri Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+This child is eligible for immunizations through the federal VFC Program because he/she,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,Y,NULL,NULL
+This child is eligible for immunizations through the federal VFC Program because he/she*,Immunizations,2.16.840.1.113883.10.20.22.2.2,11369-6,NULL,Y,NULL,NULL
+This student has the following problems that may impact his/her educational experience,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Thyroid Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Tobacco Treatment Checklist,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Today`s INR Test Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Today's Assessment and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Today's Assessment/Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Today's Assessments and Plan,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Today's Assessments and Plans,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Today's Intervention/Plan,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Today's Interventions/Plan,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Today's Interventions/Plans,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Tone Audio,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Total # of Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Total # of Pharmacist Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Total Number of Medication-related Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Total Number of non-reconciled medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Total Number of Reconciled Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Total Psychological Symptoms Assessment Score,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Total Score for Menopause Symptoms and Impact Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Total Sexual Health Assessment Score,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Total Time of Visit,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Total Vasomotor Symptoms Assessment Score,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Toxicities Environment/Work Hazards/X-rays/Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,Y,NULL
+TOXICITIES/COMPLICATIONS,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Toxicity,Allergies Section,2.16.840.1.113883.10.20.22.2.6,48765-2,NULL,N,NULL,NULL
+transfer medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Treatment,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Treatment Assessment,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Treatment Goals,Objective, 2.16.840.1.113883.10.20.21.2.1,61149-1,NULL,N,NULL,NULL
+Treatment Plan,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Treatment Step,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Treatment/Reassessment,Assessment and Plan,2.16.840.1.113883.10.20.22.2.9,51847-2,NULL,N,NULL,NULL
+Treatments,Plan of Care Section,2.16.840.1.113883.10.20.22.2.10,18776-5,NULL,N,NULL,NULL
+Triage Clinician,Attending physician name?,NULL,52526-1,NULL,N,NULL,NULL
+Triage Interventions,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Trial Contact Lens Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Tried Tx,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+TUBES/LINES/DRAINS/DEVICES,Surgical Drains Section,2.16.840.1.113883.10.20.7.13,11537-8,NULL,N,NULL,NULL
+Tx Reflexes,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Tx Status,Interventions,2.16.840.1.113883.10.20.21.2.3,62387-6,NULL,N,NULL,NULL
+Type of Anesthesia,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Type of Call,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Type of Contact,Emergency contact information?,NULL,56796-6,NULL,N,NULL,NULL
+Type of procedure,Procedures Section,2.16.840.1.113883.10.20.22.2.7,47519-4,NULL,N,NULL,NULL
+Type of sedation,Anesthesia Section,2.16.840.1.113883.10.20.22.2.25,59774-0,NULL,N,NULL,NULL
+Typical Food Intake,Medical (General) History,2.16.840.1.113883.10.20.22.2.39,11329-0,NULL,N,NULL,NULL
+UA,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+UBT Breath Test,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Ultrasound,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,Y,NULL,NULL
+Understanding of serious diabetic complications incl signs and symptoms,Complications,2.16.840.1.113883.10.20.22.2.37,55109-3,NULL,N,NULL,NULL
+Urinalysis,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,Y,NULL,NULL
+Urinary tract problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Urine culture,Laboratory Test Section,NULL,34075-2,NULL,N,NULL,NULL
+URINE DIP RESULT,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Urodynamic Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Uroflow:,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Uroflowmetry Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Vaginal Discharge,Findings Section,2.16.840.1.113883.10.20.6.1.2,18782-3,NULL,N,NULL,NULL
+VAS Result,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Vascular Examination,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+Venous Thromboembolism Risk Assessment,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Verify Medications,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Visit Code Status,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Visit Information,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Visit Level,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Visit Type,Encounters,2.16.840.1.113883.10.20.22.2.22,46240-8,NULL,N,NULL,NULL
+Visual problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Vital Signs,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital Signs History,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital signs stable,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital signs upon arrival,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital Signs Vital Signs,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital Signs/O,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Vital Signs/O2 Saturation,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+"Vitals, Chief Complaint, & HPI",Chief Complaint Section,1.3.6.1.4.1.19376.1.5.3.1.1.13.2.1,10154-3,NULL,N,NULL,NULL
+VS,Vital Signs Section,2.16.840.1.113883.10.20.22.2.4,8716-3,NULL,N,NULL,NULL
+Weight History,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,?
+Weight problem?,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Weight Problems,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,NULL
+Were there clinically significant co-existing disease or organ impairment at time of patient assessment prior to preparative regimen?,Assessment Section,2.16.840.1.113883.10.20.22.2.8,51848-0,NULL,N,NULL,NULL
+Wet Prep Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+What is patient taking medication for?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,Y,NULL,NULL
+What is the reason for the medication?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,Y,NULL,NULL
+When was medication last refilled?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Who prescribed the medication?,Medication Section,2.16.840.1.113883.10.20.22.2.1,10160-0,NULL,N,NULL,NULL
+Wounds/Incisions/Burns/Pressure Ulcers,Problem Section,2.16.840.1.113883.10.20.22.2.5,11450-5,NULL,N,NULL,Added for wounds project
+X-Ray Eval,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+X-ray Results,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
+X-rays/Imaging,Results Section,2.16.840.1.113883.10.20.22.2.3,30954-2,NULL,N,NULL,NULL
